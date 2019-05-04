@@ -2197,7 +2197,770 @@ Is there any soap on the dressing table?
 
 Example B
 
-Is there a spoon
+Is there a spoon here?
+
+Yes,there is.There's one on the plate.
+
+Is there a tie here?
+
+Yes,there is.There's one  on the chair.
+
+Is there any milk here?
+
+Yes,there is.There's some on the table.
+
+Is there a hammer here?
+
+Yes,there is.There's one on the bookcase.
+
+Is there any tea here?
+
+Yes,there is.There's some on the table.
+
+
+
+# Lesson 43 Hurry up!
+
+Can you make the tea,Sam?
+
+Yes,of course I can,Penny.
+
+Is there any water in this kettle?
+
+Yes,there is.
+
+Where's the tea?
+
+It's over there,behind the teapot.
+
+Can you see it?
+
+I can see the teapot,but I can't see the tea.
+
+There it is!It's in front of you!
+
+Ah yes,I can see it now.
+
+Where are the cups?
+
+There are some in the cupboard.
+
+Can you find them?
+
+Yes.Here they are.
+
+Hurry up,Sam!The kettle's boiling!
+
+| of course | 当然 certainly surely(Am.) |
+| --------- | -------------------------- |
+| kettle    | 水壶                       |
+| behind    | 在。。。后面（物理）       |
+| after     | （时间）                   |
+| teapot    | 茶壶                       |
+| now       | 现在                       |
+| find      | 找到                       |
+| boil      | 沸腾，烧开                 |
+
+
+
+# Lesson 44 Are there any ...?Is there any ...?
+
+Example A
+
+I can see some spoons,but I can't see any knives.
+
+I can see some hammers,but I can't see any boxes.
+
+I can see some coffee,but I can't see any loaves of bread.
+
+I can see some cupboards,but I can't see any shelves.
+
+I can see Mr.Jones and Mr.Brown,but I can't see their wives.
+
+I can see some cups,but I can't see any dishes.
+
+I can see some cars,but I can't see any buses.
+
+Example B
+
+Is there any milk here?
+
+Yes,there is.There's some in front of the door.
+
+Is there any soap here?
+
+Yes,there is.There's some on the cupboard.
+
+Are there any newspaper here?
+
+Yes,there are.There are some behind that vase.
+
+Is there any water here?
+
+Yes,there is.There's some in those glasses.
+
+Is there any tea here?
+
+Yes,there is.There's some in those cups.
+
+Are there any cups here?
+
+Yes,there are.There are some in front of that kettle.
+
+Is there any chocolate here?
+
+Yes,there is.There's some behind that book.
+
+Are there any  teapots here?
+
+Yes,there are.There are some  in that cupboard.
+
+Are there any cars here?
+
+Yes,there are.There are some in front of that building.
+
+Is there any coffee here?
+
+Yes,there is.There's some on the table.
+
+
+
+# Lesson 45 The boss's letter
+
+Can you come here a minute please,Bob?
+
+Yes.sir?
+
+Where's Pamela?
+
+She's next door.She's in her office,sir.
+
+Can she type this letter for me?Ask her please.
+
+Yes,sir.
+
+Can you type this letter for the boss please,Pamela?
+
+Yes,of course I can.
+
+Here you are.
+
+Thank you,Bob.
+
+Bob!
+
+Yes?What's the matter?
+
+I can't type this letter.I can't read it!The boss's handwriting is terrible.
+
+| can         | 能够           |
+| ----------- | -------------- |
+| boss        | 老板，上司     |
+| minute      | 分钟           |
+| ask         | 问             |
+| handwriting | 手写           |
+| terrible    | 糟糕的，可怕的 |
+
+a minute
+
+a moment 
+
+second a quarter hour day week month year
+
+be nice to sb
+
+
+
+# Lesson 46 Can you ...?
+
+| lift    | 拿起，举起   |
+| ------- | ------------ |
+| cake    | 饼，蛋糕     |
+| biscuit | 饼干（可数） |
+
+Example A
+
+They can type these letters.
+
+She can make the bed.
+
+You can swim across the river.
+
+We can come now.
+
+We can run across the park.
+
+He can sit on the grass.
+
+I can give him some chocolate.
+
+Example B
+
+Can you type this letter?Yes,I can.What can you do?I can type this letter.
+
+Can Penny wait for the bus?Yes,She can.What can Penny do?She can wait for the bus.
+
+Can Penny and Jane wash the dishes?Yes,they can.What can Penny and Jane do?They can wash the dishes.
+
+Can George take these flowers to her?Yes,he can.What can George do?He can take these flowers to her.
+
+Can the cat drink the milk?Yes,it can.What can it do?It can drink the milk.
+
+
+
+# Lesson 47 A cup of coffee
+
+Do you like coffee,Ann?
+
+Yes,I do.
+
+Do you want a cup?
+
+Yes,please,Christine.
+
+Do you want any sugar?
+
+Yes,please.
+
+Do you want any milk?
+
+No,thank you.I don't like milk in any coffee.I like black coffee.
+
+Do you like biscuits?
+
+Yes,I do.
+
+Do you want one?
+
+Yes,please.
+
+| like | 喜欢，想要         |
+| ---- | ------------------ |
+| want | 想（比like更强烈） |
+
+
+
+# 一般现在时
+
+（1）表示现在的事实或状态
+
+My father is a policeman.
+
+（2）现在的习惯性动作
+
+My mother cooks for my family every day.
+
+（3）真理
+
+The earth goes round the sun.
+
+结构：
+
+- 主语+系动词（is，are，am）
+
+- 主语+动词（习惯性动作或事实）
+
+  除单数第三人称以外的代词（I，you，we，they）以及复数名词+动词原形
+
+  单数第三人称/单数名词+动词（s/es）
+
+常用时间状语：always,usually,often,sometimes,never,every day,every year,every morning,every afternoon,every night,in the morning,in the afternoon
+
+
+
+# Lesson 48 Do you like ...?Do you want ...?
+
+| fresh      | 新鲜的       |
+| ---------- | ------------ |
+| egg        | 鸡蛋         |
+| butter     | 黄油         |
+| pure       | 纯净的       |
+| honey      | 蜂蜜         |
+| ripe       | 成熟的       |
+| banana     | 香蕉         |
+| jam        | 果酱         |
+| sweet      | 甜的         |
+| sour       | 酸的         |
+| bitter     | 苦的         |
+| salty      | 咸的         |
+| spicy      | 辣的         |
+| orange     | 橙           |
+| Scotch     | 苏格兰威士忌 |
+| choice     | 上等的；选择 |
+| apple      | 苹果         |
+| wine       | 红酒         |
+| beer       | 啤酒         |
+| alcohol    | 白酒;酒精    |
+| blackboard | 黑板         |
+
+sweet-and-sour
+
+The time is ripe.
+
+break fresh ground 做从未做过的事
+
+Put all the eggs in one basket. 冒很大风险
+
+the apple of sb's eye 某人最喜欢
+
+Example A
+
+The aeroplane is flying over the village.
+
+The ship is going under the bridge.
+
+The children are swimming across the river.
+
+Two cats are running along the wall.
+
+The boy is jumping off the branch.
+
+The girl is sitting between her mother and her father.
+
+The teacher is standing in front of the blackboard.
+
+The blackboard is behind the teacher.
+
+Example B
+
+Do you like honey?Yes,I do.I like honey,but I don't want any.
+
+Do you like bananas?Yes,I do.I like bananas,but I do't want one.
+
+Do you like jam?Yes,I do.I like jam,but I don't want any.
+
+Do you like oranges?Yes,I do.I like oranges,but I don't want one.
+
+Do you like ice cream?Yes,I do.I like ice cream,but I don't want any.
+
+Do you like whisky?Yes,I do.I like whisky,but I don't want any.
+
+Do you like apples?Yes,I do.I like apples,but I don't want one.
+
+Do you like wine?Yes,I do.I like wine,but I don't want any.
+
+Do you like biscuits?Yes,I do.I like biscuits,but I don't want one.
+
+Do you like beer?Yes,I do.I like beer,but I don't want any.
+
+
+
+# Lesson 49 At the butcher's
+
+Do you want any meat today,Mrs. Bird?
+
+Yes,please.
+
+Do you want beef or lamb?
+
+Beef,please.
+
+This lamb's very good.
+
+I like lamb,but my husband doesn't.
+
+What about some steak?This is a nice piece.
+
+Give me that piece,please.
+
+And a pound of mince,too.
+
+Do you want a chicken,Mrs. Bird?They're very nice.
+
+No,thank you.
+
+My husband likes steak,bu he doesn't like chicken.
+
+To tell you the truth,Mrs. Bird,I don't like chicken either!
+
+| butcher | 卖肉者       |
+| ------- | ------------ |
+| meat    | 肉           |
+| beef    | 牛肉         |
+| lamb    | 羔羊肉       |
+| husband | 丈夫         |
+| spouse  | 夫妻         |
+| bride   | 新娘         |
+| groom   | 新郎         |
+| fiancee | 未婚妻       |
+| fiance  | 未婚夫       |
+| steak   | 牛排         |
+| mince   | 肉馅         |
+| chicken | 鸡肉         |
+| tell    | 告诉         |
+| truth   | 实情         |
+| eicher  | 也（否定句） |
+
+steak rare
+
+steak medium
+
+steak well-done
+
+speak 发言 +语言
+
+say 强调内容
+
+talk 交流
+
+tell a lie
+
+You‘re telling me! 你才知道啊！
+
+Tell me another. 我不信
+
+
+
+# Lesson 50 He likes ... But he doesn't like ...
+
+| tomato  | 西红柿 |
+| ------- | ------ |
+| potato  | 土豆   |
+| cabbage | 卷心菜 |
+| lettuce | 莴苣   |
+| pea     | 豌豆   |
+| bean    | 豆角   |
+| pear    | 梨     |
+| grape   | 葡萄   |
+| peach   | 桃     |
+
+as like as two peas 非常相似
+
+Example A
+
+He likes coffee,I don't.
+
+She likes tea,but he doesn't.
+
+He is eating some bread,but she isn't.
+
+She can type very well,but he can't.
+
+They are working hard,but we aren't.
+
+He is reading a magazine,but I am not.
+
+Example B
+
+Does Sam like cabbage?Yes,he does.He likes cabbage,but he doesn't want any.
+
+Does Sam like lettuce?Yes,he does.He likes lettuce,but he doesn't want any.
+
+Do you like peas?Yes,I do.I like peas,but I don't want any.
+
+
+
+# Lesson 51 A pleasant climate
+
+Where do you come from?
+
+I come from Greece.
+What's the climate like in your country?
+
+It's very pleasant.
+
+What's the weather like in spring?
+It's often windy in March.
+
+It's always warm in April and May,but it rains sometimes.
+
+What's it like in summer?
+
+It's always hot in June,July and August.The sun shines every day.
+
+Is it cold or warm in autumn?
+
+It's always warm in September and October.It's often cold in November and it rains sometimes.
+
+Is it very cold in winter?
+
+It's often cold in December,January and February.It snows sometimes.
+
+| Greece    | 希腊           |
+| --------- | -------------- |
+| Greek     | 希腊人         |
+| climate   | 气候           |
+| country   | 国家           |
+| pleasant  | 宜人的         |
+| weather   | 天气           |
+| spring    | 春天；弹簧     |
+| windy     | 有风的         |
+| warm      | 暖和的         |
+| cool      | 凉             |
+| cold      | 冷             |
+| hot       | 热             |
+| rain      | 下雨           |
+| sometimes | 有时           |
+| summer    | 夏天           |
+| autumn    | 秋天 fall(Am.) |
+| winter    | 冬天           |
+| snow      | 下雪           |
+| January   | 一月           |
+| February  | 二月           |
+| March     | 三月           |
+| April     | 四月           |
+| May       | 五月           |
+| June      | 六月           |
+| July      | 七月           |
+| August    | 八月           |
+| September | 九月           |
+| October   | 十月           |
+| November  | 十一月         |
+| December  | 十二月         |
+
+weather forecast 天气预报
+
+weather bureau 气象局
+
+weather beaten 饱经风霜的
+
+under the weather 心情不好的
+
+a gust of wind 一阵风
+
+seldom 很少
+
+snow-white 雪白
+
+warm-heart 热心肠的
+
+warm up 热身
+
+a heavy rain 大雨
+
+a light rain 小雨
+
+a fine rain 细雨
+
+a rain of 雨点的
+
+a rain of bullets 一阵弹雨
+
+a rain of congratulations 一连串的祝福
+
+rain cats and dogs
+
+It never rains but it pours. 祸不单行
+
+rainbow
+
+a rainy day 雨天，困难的日子。
+
+summer school 暑假班
+
+summer vocation = summer holiday
+
+
+
+# Lesson 52 What nationality are they?Where do they come from?
+
+| the U.S. | 美国 the U.S.A. |
+| -------- | --------------- |
+| Brazil   | 巴西 Brazilian  |
+| Holland  | 荷兰 Dutch      |
+| England  | 英国 British    |
+| France   | 法国 French     |
+| Germany  | 德国 German     |
+| Italy    | 意大利 Italian  |
+| Norway   | 挪威 Norwegian  |
+| Russia   | 俄罗斯 Russian  |
+| Spain    | 西班牙 Spanish  |
+| Sweden   | 瑞典 Swedish    |
+
+Example A
+
+We come from Germany,but Dimitri comes from Greece.
+
+I like cold weather,but he likes warm weather.
+
+He comes from the U.S.,but she comes from England.
+
+She doesn't like the winter,but she likes the summer.
+
+I come from Norway,but you come from Spain.
+
+Stella comes from Spain,but Hans and Karl come from Germany.
+
+We don't come from Spain.We come from Brazil.
+
+Example B
+
+Where does she come from?Does she come from England?No,she doesn't come from England.She comes from the U.S.What nationality is she?She is American.
+
+
+
+# Lesson 53 An interesting climate
+
+Where do you come from?
+
+I come from England.
+
+What's the climate like in your country?
+
+It's mild,but it's not always pleasant.
+
+The weather's often cold in the North and windy in the East.It's often wet in the West and sometimes warm in the South.
+
+Which seasons do you like best?
+
+I like spring and summer.The days are long and the nights are short.The sun rises early and sets late.
+
+I don't like autumn and winter.The days are short and the nights are long.The sun rises late and sets early.Our climate is not very good,but it's certainly interesting.It's our favourite subject of conversation.
+
+| mild         | 温和的         |
+| ------------ | -------------- |
+| wild         | 野性的         |
+| gentle       | 文雅的（修养） |
+| always       | 总是           |
+| north        | 北方           |
+| east         | 东方           |
+| wet          | 潮湿的         |
+| dry          | 干燥的         |
+| west         | 西方           |
+| south        | 南方           |
+| season       | 季节           |
+| best         | 最             |
+| night        | 夜晚           |
+| rise         | 升起           |
+| early        | 早             |
+| set          | （太阳）落下   |
+| late         | 晚，迟         |
+| interesting  | 有趣的         |
+| dull         | 无趣的         |
+| subject      | 主题           |
+| conversation | 谈话           |
+
+northeast
+
+be wet through（状态）= get wet through（过程）全身湿透
+
+in the high season
+
+in the low season
+
+Let's have a talk.
+
+be in conversation with ..
+
+sb be interested in 。。。
+
+
+
+# Lesson 54 What nationality are they?Where do they come from?
+
+| Australia   | 澳大利亚   |
+| ----------- | ---------- |
+| Australian  | 澳大利亚人 |
+| Austria     | 奥地利     |
+| Austrian    | 奥地利人   |
+| Canada      | 加拿大     |
+| Canadian    | 加拿大人   |
+| China       | 中国       |
+| Finland     | 芬兰       |
+| Finnish     | 芬兰人     |
+| India       | 印度       |
+| Indian      | 印度人     |
+| Japan       | 日本       |
+| Nigeria     | 尼日利亚   |
+| Nigerian    | 尼日利亚人 |
+| Turkey      | 土耳其     |
+| Turkish     | 土耳其人   |
+| South Korea | 韩国       |
+| Korean      | 韩国人     |
+| Polish      | 波兰人     |
+| Poland      | 波兰       |
+| Thai        | 泰国人     |
+| Thailand    | 泰国       |
+
+Example A
+
+Does the sun set late?The sun doesn't set late.
+
+Does he like ice cream?He doesn't like ice cream.
+
+Does Mrs.Jones want a biscuit?Mrs.Jones doesn't want a biscuit.
+
+Does Jim come from England?Jim doesn't come from England.
+
+Example B
+
+Where does he come from?Is he Australian?Yes,he's Australian.He comes from Australia.
+
+Where does he come from?Is he Austrian?Yes,he's Austrian.He comes from Austria.
+
+Where does he come from?Is he Canadian?Yes,he's Canadian.He comes from Canada.
+
+Where do they come from? Are they Chinese?Yes,they're Chinese.They come from China.
+
+Where does he come from?Is he Finnish?Yes,he's Finnish.He comes from Finland.
+
+Where does she come from?Is she Indian?Yes,she's Indian.She comes from India.
+
+
+
+# Lesson 55 The Sawyer family
+
+The Sawyers live at 87 king Street.In the morning,Mr.Sawyer goes to work and the children go to school.Their father takes them to school every day.Mrs.Sawyer stays at home every day.She does housework.She always eats her lunch at noon.In the afternoon,she usually sees her friends.They often drink tea together.In the evening,the children come from school.They arrive home early.Mr.Sawyer comes from work.He arrives home late.At night,the children always do their homework.Then they go to bed.Mr.Sawyer usually reads hie newspaper,but sometimes he and his wife watch television.
+
+| live      | 生活 |
+| --------- | ---- |
+| stay      | 停留 |
+| home      | 家   |
+| housework | 家务 |
+| lunch     | 午餐 |
+| supper    | 晚饭 |
+| afternoon | 下午 |
+| usually   | 通常 |
+| together  | 一起 |
+| evening   | 晚上 |
+| arrive    | 到达 |
+| night     | 夜间 |
+
+stay at sb‘s house 住在别人家
+
+stay in （晚上）呆在家里，没有外出
+
+stay at home 呆在家里
+
+go home 回家
+
+leave home 离开家
+
+live in + 国家/城市
+
+live at + 确切的地址
+
+housekeeping 家务管理
+
+housemate 同屋(指同住一所房子但非家庭成员的人)
+
+spare time 空闲时间
+
+evening dress
+
+arrive at + 公共场所/大楼
+
+arrive in + 城市/国家
+
+all night along 一整夜
+
+night dress
+
+night life
+
+nightmare
+
+go to bed 上床睡觉
+
+sleep 状态
+
+go to sleep 入睡的过程
+
+
+
+# Lesson 56 What do they usually do?
+
+
 
 
 
@@ -2211,7 +2974,9 @@ one two three four five six seven eight nine ten eleven tewlve thirteen fourteen
 
 1,430:one thousand four hundred and thirty
 
-899,002​:eight​ hundred and ninty nine thousand and two
+899,002:eight​ hundred and ninety nine thousand and two
+
+the first the second the third the fourth the fifth the sixth the seventh the eighth the ninth the tenth the eleventh the twelfth the thirteenth the fourteenth the fifteenth the sixteenth the seventeenth the eighteenth the nineteenth the twentieth the twenty-first the thirtieth the fortieth the fiftieth the seventieth the eightieth the ninetieth the one hundredth the one hundred and first 
 
 
 
