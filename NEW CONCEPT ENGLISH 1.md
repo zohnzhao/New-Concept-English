@@ -2960,6 +2960,1375 @@ go to sleep 入睡的过程
 
 # Lesson 56 What do they usually do?
 
+Example A
+
+The children go to school in the morning.
+
+Their father takes them to school.
+
+Mrs.Swayer stays at home.
+
+She does the housework.
+
+She always eats her lunch at noon.
+
+Example B
+
+What does she do in the morning?She always makes the bed in the morning.
+
+What does he do in the morning?He always shaves in the morning.
+
+What do they do in the evening?They sometimes listen to the stereo in the evening.
+
+What does he do every day?He always cleans the blackboard every day.
+
+What do they do at night?They always go to bed early at night.
+
+What does she do every day?She usually washes the dishes every day.
+
+What do they do in the afternoon?They usually type some letters in the afternoon.
+
+What does it do every day?It ususlly drinks some milk every day.
+
+What do they do in the evening?They sometimes watch television in the evening.
+
+What does she do at noon?She always eats her lunch at noon.
+
+What does he do in the evening?He often reads his newspaper in the evening.
+
+
+
+# lesson 57 An unusual day
+
+It is eight o'clock.The children go to school by car every day,but today,they are going to school on foot.It is ten o'clock.Mrs.Sawyer usually stays at home in the morning,but this morning,she is going to shops.It is four o'clock.In the afternoon,Mrs.Sawyer usually drinks tea in the living room.But this afternoon,she is drinking tea in the garden.It is six o'clock.In the evening,the children usually do their homework,but this evening,they are not doing their homework.At the moment,they are playing in the garden.It is nine o'clock.Mr.Sawyer usually reads his newspaper at night.But he's not reading his newspaper tonight.At the moment,he's reading an interesting book.
+
+| o'clock  | 点钟（前加整数）          |
+| -------- | ------------------------- |
+| shop     | 商店（Br.） store （Am.） |
+| moment   | 片刻，瞬间                |
+| whopping | 巨大的                    |
+| pile     | 一堆                      |
+| witch    | 巫婆                      |
+| laundry  | （要）洗的衣服            |
+| detest   | 讨厌                      |
+
+for the moment 暂时
+
+at any moment 随时
+
+at the moment 目前
+
+Putting your foot in and out at weddings.拿婚姻当儿戏的人
+
+go to the shops 买常买的东西
+
+go shoppping 买不常买的东西
+
+corner shop 小店
+
+shopping center 购物中心
+
+mall/shopping mall 大型购物中心（有餐厅，电影院等）
+
+
+
+# Lesson 58 What's the time?They usually ... but today,they are ...
+
+Example A
+
+She usually drinks tea in the morning,but this morning,she is drinking coffee.
+
+They usually play in the garden in the afternoon,but this afternoon,they are playing in the park.
+
+He usually washes the dishes at night,but toninght he is washing clothes.
+
+Example B
+
+What does she usually do in the morning?She usually drinks tea in the morning.
+
+What is she doing this norning?She is drinking coffee this morning.
+
+What do they usually do in the afternoon?They usually play in the garden in the afternoon.
+
+What are they doing this afternoon?They are simming in the river this afternoon.
+
+What do you usually do in the evening?I usually cook a meal in the evening.
+
+What are you doing this evening?I am reading a book this evening.
+
+What do you usually do at night?We usually watch television at night.
+
+What are you doing tonight?We are listening to the stereo tonight.
+
+
+
+# Lesson 59 Is that all?
+
+I want some envelopes,please.
+
+Do you want the large size or small size?
+
+The large size,please.
+
+Do you have any writing paper?
+
+Yes,we do.
+
+I don't have any small pads.I only have large ones.Do you want a pad?
+
+Yes,please.And I want some glue.
+
+A bottle of glue.
+
+And I want a large box of chalk,too.
+
+I only have small boxes.Do you want one?
+
+No,thank you.
+
+Is that all?
+
+That's all,thank you.
+
+What else do you want?
+
+I want my change.
+
+| envelope        | 信封                 |
+| --------------- | -------------------- |
+| writing paper   | 信纸                 |
+| shop assistant  | 售货员               |
+| size            | 尺码                 |
+| pad             | 信笺薄               |
+| glue            | 胶水                 |
+| chalk           | 粉笔                 |
+| change          | 零钱；改变           |
+| shopkeeper      | (通常指小商店的)店主 |
+| store detective | 商店专抓行窃者的雇员 |
+
+a sheet of paper = a piece of paper
+
+window envelop 有开窗的信封
+
+coloured chalk 彩色粉笔
+
+a piece of chalk
+
+
+
+# Lesson 60 What's the time?
+
+Example A
+
+I don't have any grapes,but I have some peaches.
+
+I don't have any tomatoes,but I have some potapoes.
+
+I don't have any mince,but I have some steak.
+
+I don't have any glue,but I have some ink.
+
+I don't have any envelopes,but I have some writing paper.
+
+Example B
+
+I don't have any honey,but I have some jam.
+
+Penny and I don't have any beans,but we have some potatoes.
+
+Penny and Sam don't have any wine,but they have some beer.
+
+Sam and I don't have any bread,but we have some biscuits.
+
+Sam and Penny don't have any grapes,but they have some bananas.
+
+I don't have any mince,but I have some steak.
+
+The children don't have any butter,but they have some eggs.
+
+I don't have any lettuces,but I have some cabbages.
+
+Penny and I don't have any beans,but we have some peas.
+
+
+
+# Lesson 61 A bad cold
+
+Where's Jimmy?
+
+He's in bed.
+
+What's the matter with him?
+
+He feels ill.
+
+We must call the doctor.
+
+Yes,we must.
+
+Can you remember the doctor's telephone number?
+
+Yes.It's 09754.
+
+Open your mouth,Jimmy.Show me your tongue.Say,'Ah'.
+
+What's the matter with him,doctor?
+
+He has a bad cold,Mr.Williams,so he must stay in bed for a week.
+
+That's good news for Jimmy.
+
+Good news?Why?
+
+Because he doesn't like school!
+
+| feel      | 感觉         |
+| --------- | ------------ |
+| smell     | 闻           |
+| taste     | 尝           |
+| look      | 看           |
+| sound     | 听           |
+| look      | 看           |
+| must      | 必须         |
+| call      | 叫，请       |
+| doctor    | 医生         |
+| dentist   | 牙医         |
+| vet       | 兽医         |
+| surgeon   | 外科医生     |
+| telephone | 电话         |
+| remember  | 记得         |
+| mouth     | 嘴           |
+| tongue    | 舌头         |
+| bad       | 坏的，严重的 |
+| cold      | 感冒         |
+| news      | 消息         |
+
+telephone call 别人打来的电话 复数加到call
+
+look after 照顾
+
+look for 寻找
+
+look down on sb 瞧不起
+
+a piece of news
+
+bad language 脏话
+
+go from bad to worse 越来越差
+
+go to see a doctor 看医生
+
+see a doctor about 看。。。病
+
+the doctor's (Br.) 诊所 = the doctor's office (Am.)
+
+call sb to the phone 叫sb接电话
+
+talk on the phone = talk over the phone 通电话
+
+telephone sb 给sb打电话
+
+remember to do sth. 记得去做某事
+
+remember doing sth. 记得做过某事
+
+from the horse‘s mouth. 直接得来的消息
+
+from mouth to mouth 口口相传
+
+mouth tongue 母语
+
+tongue twister 绕口令
+
+a slip of the tangue 口误
+
+
+
+# Lesson62 What's matter with them?What must they do?
+
+| headache     | 头疼     |
+| ------------ | -------- |
+| aspirin      | 阿司匹林 |
+| earache      | 耳疼     |
+| toothache    | 牙疼     |
+| dentist      | 牙医     |
+| stomach ache | 胃疼     |
+| medicine     | 药       |
+| temperature  | 温度     |
+| flu          | 流感     |
+| measles      | 麻疹     |
+| mumps        | 腮腺炎   |
+
+take an aspirin = have an aspirin 吃一片阿司匹林
+
+have a temperature 发烧
+
+take one's temperature 量体温
+
+a sore threat 嗓子疼
+
+Example A
+
+He has a cold.
+
+He can't go to work.
+
+He's not well.
+
+He feels ill.
+
+He must see a doctor.
+
+He doesn't like doctors.
+
+Example B
+
+What's the matter with Elizabeth?
+
+Does she have an earache?
+
+No,she doesn't have an earache.She has a headache.So she must take an aspirin.
+
+
+
+# Lesson 63 Thank you,doctor.
+
+How's Jimmy today?
+
+Better.Thank you,doctor.
+
+Can I see him please,Mrs.Williams?
+
+Certainly,doctor.Come upstairs.
+
+You look very well,Jimmy.You are better now,but you mustn't get up yet.You must stay in bed for another two days.
+
+The boy mustn't go to school yet,Mrs.Williams.And he mustn't eat rich food.
+
+Does he have a temperature,doctor?
+
+No,he doesn't.
+
+Must he stay in bed?
+
+Yes.He must remain in bed for another two days.He can get up for about two hours each day,but you must keep the room warm.
+
+Where's Mr.Williams this evening?
+
+He's in bed,doctor.Can you see him please?He has a bad cold,too!
+
+| better    | 形容词well的比较级 |
+| --------- | ------------------ |
+| certainly | 当然               |
+| get up    | 起床               |
+| yet       | 仍（否定句）       |
+| rich      | 富裕的，油腻的     |
+| fatty     | 脂肪多             |
+| food      | 食物               |
+| dish      | 菜肴               |
+| flavor    | 风味               |
+| remain    | 保持，继续；剩下   |
+
+a low -fat diet 低脂食物
+
+a high-fibre diet 高纤维食物
+
+be on diet 节食
+
+have a headache/toothache/stomachache/temperature/fever
+
+have an earache
+
+have flu/measles/mumps
+
+for 引导的表示时间的短语往往可以译作“达”。
+
+
+
+# Lesson 64 Don't ...!You mustn't ...!
+
+| play        | 玩        |
+| ----------- | --------- |
+| match       | 火柴;火柴 |
+| talk        | 谈话      |
+| library     | 图书馆    |
+| drive       | 开车;赶走 |
+| so          | 所以      |
+| quickly     | 快的      |
+| lean out of | 身体探出  |
+| lean on     | 依靠      |
+| break       | 打破      |
+| noise       | 喧闹声    |
+
+Don't play with matches.
+
+球类不加冠词
+
+乐器加“the”
+
+play the joke on sb 拿某人开玩笑
+
+Example A
+
+Jimmy is better now but he mustn't get up yet.
+
+Jimmy has a cold and he must stay in bed.
+
+Jimmy can get up for two hours each day.
+
+Jimmy often reads in bed.
+
+Jimmy listens to the stereo,too.
+
+Jimmy doesn't feel ill now.
+
+Example B
+
+Don't take any aspirins!You musn't take any aspirins!
+
+Don't take this medicine!You musn't take this medicine!
+
+Don't call the doctor!You musn't call the doctor!
+
+Don't play with matches!You musn't play with matches!
+
+Don't talk in the library!You musn't talk in the library!
+
+Don't make a noise!You musn't make a noise!
+
+Don't drive so quickly!You musn't drive so quickly!
+
+Don't lean out of the window!You musn't lean out of the window!
+
+Don't break that vase!You musn't break that vase!
+
+
+
+# Lesson 65 Not a baby
+
+What are you going to do this evening,Jill?
+
+I'm going to meet some friends,Dad.
+
+You mustn't come home late.You must be home at half past ten.
+
+I can't get home so early,Dad!
+
+Can I have the key to the front door,please?
+
+No,you can't.
+
+Jill's eighteen years old,Tom.She's not a baby.Give her the key.She always comes home early.
+
+Oh,all right!Here you are.But you mustn't come home after a quarter past eleven.Do you hear?
+
+Yes,Dad.Thanks,Mum.
+
+That's all right.Goodbye.Enjoy yourself!
+
+We always enjoy ourselves,Mum.Bye-bye.
+
+| Dad       | 爸（儿语） |
+| --------- | ---------- |
+| key       | 钥匙       |
+| baby      | 婴儿       |
+| hear      | 听见       |
+| enjoy     | 玩得开心   |
+| yourself  | 你自己     |
+| ourselves | 我们自己   |
+| Mum       | 妈（儿语） |
+
+ourselves myself yourselves himself itself themself oneself
+
+by oneself 独自一人
+
+come to oneself 苏醒
+
+hear from ... 收到。。。的信
+
+enjoy + 名词/doing
+
+get to = arrive in/at
+
+get here/there
+
+
+
+# Lesson 66 What's the time?
+
+| myself     | 我自己   |
+| ---------- | -------- |
+| themselves | 他们自己 |
+| himself    | 他自己   |
+| herself    | 她自己   |
+
+Example A
+
+I am going to see him at ten o'clock.
+
+It often rains in November.
+
+Where do you come from?I come from France.
+
+I always go to work in the morning.
+
+What's the climate like in your country?
+
+It's cold in winter and hot in summer.
+
+Example B
+
+She must go to the library at a quarter past one.
+
+We must see the dentist at a quarter to four.
+
+I must type this letter at two o'clock.
+
+They must see the boss at half past one.
+
+He must take his medicine at a quarter past three.
+
+She must arrive in London at half past two.
+
+You must catch the bus at half past three.
+
+I must arrive there at three o'clock.
+
+They must come home at a quarter pass two.
+
+I must meet Sam at a quarter to two.
+
+He must telephone me at a quarter to three.
+
+
+
+# Lesson 67 The weekend
+
+Hello.Were you at the butcher's?
+
+Yes,I was.Where you at the butcher's,too?
+
+No,I wasn't.I was at the greengrocer's.How's Jimmy today?
+
+He's very well,thank you.
+
+Was he absent from school last week?
+
+Yes,he was.He was absent on Monday,Tuesday,Wednesday and Thursday.How are you all keeping?
+
+Very well,thank you.We're going to spend three days in the country.We're going to stay at my mother's for the weekend.
+
+Friday,Saturday and Sunday in the country!Aren,t you lucky!
+
+| greengrocer | 蔬菜水果零售商                 |
+| ----------- | ------------------------------ |
+| absent      | 缺席的                         |
+| Monday      | 星期一                         |
+| Tuesday     | 星期二                         |
+| Wednesday   | 星期三                         |
+| Thursday    | 星期四                         |
+| keep        | 保持；（身体健康）处于（状态） |
+| spend       | 度过（时光）；花（时间，钱）   |
+| weekend     | 周末                           |
+| Friday      | 星期五                         |
+| Saturday    | 星期六                         |
+| Sunday      | 星期日                         |
+| country     | 乡下                           |
+| lucky       | 幸运的                         |
+
+spend  some money on sth.
+
+spend some money (in) doing sth.
+
+for the weekend 强调整个周末
+
+at the weekend 在周末
+
+
+
+# 一般过去时
+
+过去发生而现在已经结束
+
+（1）过去某一时间发生的动作。
+
+（2）过去一段时间经常发生的动作或状态
+
+1.系动词的一般过去时第一，第三人称单数用was，其他用were
+
+2.动词变化
+
+- 一般直接-ed
+- 以-e结尾，加-d
+- 元音字母加辅音字母结尾，双写辅音，再加-ed
+- 辅音+y结尾，y变ied
+
+3.特殊
+
+| keep       | kept       |
+| ---------- | ---------- |
+| sleep      | slept      |
+| begin      | began      |
+| get        | got        |
+| take       | took       |
+| make       | made       |
+| go         | went       |
+| come       | came       |
+| see        | saw        |
+| understand | understood |
+| say        | said       |
+| drink      | drank      |
+| run        | ran        |
+| konw       | knew       |
+| meet       | met        |
+| buy        | bought     |
+| swim       | swam       |
+| lose       | lost       |
+
+4.时间状语:last,ago,just,now,last year,five days ago.
+
+5.否定句与疑问句用did，后面动词用原型。
+
+eg:Did he make a bookcase for his son yesterday?
+
+
+
+# Lesson 68 What's the time?
+
+| church | 教堂       |
+| ------ | ---------- |
+| dairy  | 乳品店     |
+| baker  | 面包师傅   |
+| grocer | 食品杂货店 |
+
+Example A
+
+I was ==at church== on Sunday.
+
+I was at the office on Monday.
+
+My son was at school on Turesday.
+
+My wife was at the butcher's on Wednesday.
+
+She was at the grocer's on Thursday.
+
+My daughter was in the country on Friday.
+
+I was at home on Saturday.
+
+Example B
+
+When was Tom at the hairdresser's?He was at the hairdresser's on Thursday.
+
+When was Mrs.Jones at the butcher's?She was at the butcher's on Wednesday.
+
+When was he at home?He was at home on Sunday.
+
+When was Penny at the baker's?She was at the baker's on Friday.
+
+When was Mrs.Williams at the grocer's?She was at the grocer's on Monday.
+
+When was Nicola at the office?She was at the office on Tuesday.
+
+
+
+# Lesson 69 The car race
+
+There is a car race near out town every year.In 1995,there was a very big race.There were hundreds of people here.My wife and I were at the race.Our friends Julie and Jack were here,too.You can see us in the crowd.We are standing on the left.There were twenty cars in the race.There were English cars,French cars,German cars,Italian cars,American cars and Japanese cars.It was an exciting finish.The winner was Billy Stewart.He was in car number fifteen.Five other cars were just behind him.On the way home,my wife said to me,"Don't drive so quickly!You're not Billy Stewart!"
+
+| year     | 年           |
+| -------- | ------------ |
+| race     | 比赛         |
+| town     | 城镇         |
+| crowd    | 人群         |
+| stand    | 站立         |
+| exciting | 使人激动的   |
+| just     | 正好         |
+| finish   | 结尾，结束   |
+| winner   | 获胜者       |
+| behind   | 在。。。之后 |
+| way      | 路途         |
+
+this year
+
+the year before last
+
+the yearafter next
+
+year after year
+
+a crowd hall
+
+a boat race
+
+start a race
+
+run a race with sb
+
+arm's race
+
+rat race (大城市里为财富、权力等的)疯狂竞争，你死我活的竞争
+
+just then
+
+
+
+# Lesson 70 When were they there?
+
+| stationer | 文具商 |
+| --------- | ------ |
+| Denmark   | 丹麦   |
+
+Example A
+
+We were at the stationer's on Monday.
+
+We were there at four o'clock.
+
+They were in Australia in September.
+
+They were there in spring.
+
+On November 25th,they were in Canada.
+
+They were there in 1990.
+
+Example B
+
+Where were you and Susan on March 23rd?Susan and me at the office on March 23rd.
+
+Where were Sam and Penny in 1986?They were in India in 1986.
+
+Where were you and Penny on Saturday?Penny and me were at the baker's on Saturday.
+
+Where were Sam and Penny in 1993?They were in Canada in 1993.
+
+Where were you and Penny in August?We were in Austria in August.
+
+Where were Sam and Penny on May 25th?They were at home on May 25th.
+
+Where were you and Penny in December?We were in Finland in December.
+
+Where were you and Sam on February 22nd?We were at school on February 22nd.
+
+
+
+# Lesson 71 He's awful!
+
+What's Ron Marston like,Pauline?
+
+He's awful!He telephoned me four times yesterday,and three times the day before yesterday.He telephoned the office yesterday morning and yesterday afternoon.My boss answered the telephone.
+
+What did your boss say to him?
+
+He said,"Pauline is typing letters.She can't speak to you now!"Then I arrived home at six o'clock yesterday evening.He telephoned again.But I didn't answer the phone!
+
+Did he telephone again last night?
+
+Yes,he did.He telephoned at nine o'clock.
+
+What did you say to him?
+
+I said,"This is Pauline'mother.Please don't telephone my daughter again!"
+
+Did he telephone again?
+
+No,he didn't!
+
+| awful      | 让人讨厌的，坏的 |
+| ---------- | ---------------- |
+| telephone  | 打电话；电话     |
+| time       | 次               |
+| answer     | 接（电话）       |
+| last       | 最后的           |
+| phone      | 电话             |
+| again      | 又一次           |
+| say (said) | 说               |
+
+once twice three times
+
+all the time 一直
+
+on time 准时
+
+for the time being 暂时
+
+This is sb calling from sw.
+
+Who's that,please? = Who's calling,please?
+
+
+
+# Lesson 72 When did you ...?
+
+Example A
+
+It rained yesterday.
+
+It snowed yesterday.
+
+He boiled some yesterday.
+
+We enjoyed it yesterday,too.
+
+Example B
+
+What did they do yesterday?They cleaned their shoes yesterday.
+
+What did he do last night?He opened the box last night.
+
+What did they do this morning?They sharpened their pencils this morning.
+
+What did she do this evening?She truned on the television this evening.
+
+What did she do last night?She listened to the radio last night.
+
+What did she do yesterday morning?She boiled an egg yesterday morning.
+
+What did they do yesterday afternoon?They played a game yesterday afternoon.
+
+What did he do in the morning the day before yesterday?He stayed in bed in the morning the day before yesterday.
+
+What did she do yesterday evening?She telephoned her husband yesterday evening.
+
+What did she do the night before last?She called the doctor the night before last.
+
+
+
+# Mid-term
+
+He must call the doctor.
+
+He is going to telephone him.
+
+He can go with her.
+
+He has a new car.
+
+He comes from America.
+
+He is America.
+
+He likes ice cream.
+
+He wants a newspaper.
+
+He was at school yesterday.
+
+He doesn't live here.
+
+There are some wateches on the table.
+
+There are some knives near that tin.
+
+There are some policemen in the kitchen.
+
+There are some cups on the table.
+
+There are some letters on the shelf;
+
+There are some peaches on the desk.
+
+There are some passports on the shelf.
+
+There are some dishes in the cupboard.
+
+There are some trees in the garden.
+
+There are some boats on the river.
+
+I have a new car.
+
+There are some clouds in the sky.
+
+There is some milk in the bottle.
+
+Is there any chocolate on the shelf?
+
+There is a bar of chocolate on the table.
+
+I want a loaf of bread,please.
+
+Do you want some bread?
+
+No,I don't want any bread.
+
+I want some tea.
+
+I want some biscuits,too.
+
+He is going to telephone at five o'clock.
+
+My birthday is ==on== May 21st.
+
+It is always cold in February.
+
+She isn't French.She comes from Spain.
+
+My father was there in 1942.
+
+Were you at school yesterday?
+
+He doesn't live here.He lives in England.
+
+They always do their homework in the evening.
+
+Can you come on Monday?
+
+She's not here.She's at the butcher's.
+
+The aeroplane is flying over the village.
+
+The ship is going under the bridge.
+
+The boy is swimming across the river.
+
+Two cats are running along the wall.
+
+My books are on the shelf.
+
+The bottle of milk is in the refrigerator.A
+
+The boy is jumping off the branch.
+
+Mary is sitting between her mother and her father.
+
+It is 9 o'clock.The children are going into class.
+
+It is 4 o'clock.The children are coming  out of class.
+
+She is making the bed.
+
+They are swimming across the park.
+
+The sun is ==shining==.
+
+My father is ==shaving==.
+
+They are running arcoss the park.
+
+She is sitting in an armchair.
+
+We are ==typing== letters.
+
+He is putting on his coat.
+
+I am coming.
+
+I am giving it to him.
+
+He can come now.Can he come now?When can he come?He cann't come now.
+
+There is a newspaper on the desk.Is there a newspaper on the desk.What is ~~there~~ on the desk?There isn't a newspaper on the desk.
+
+He wants a new car.Does he want a new car?What does he want?He doesn't want a new car.
+
+He is going to come now.Is he going to come now?When is he ==going== to come?He isn't going to come now.
+
+They like ice cream. Do they like ice cream?What do they like?They don't like ice cream.
+
+He comes from Germany.Does he come from Germany?Where does he come from?He doesn't come from Germany.
+
+==They must go home now.Must they go home now?When must they go home now?They mustn't go home now.==
+
+He feels ill.Does he feel ill?How does he feel?He doesn't feel ill.
+
+He has a headache.Does he have a headache?==What is the matter with him?==He doesn't have a headache.
+
+He cleanned his shoes.Did he clean his shoes?When did he clean his shoes?He didn't clean his shoes.
+
+
+
+# Lesson 73 The way to King Street
+
+Last week Mrs.Mills went to London.She does not know London very well,and she lost her way.Suddenly,she saw a man near a bus stop."I can ask him the way,"she said to herself."Excuse me,"she said."Can you tell me the way to King Street,please?"The man smiled pleasantly.He did not understand English!He spoke German.He was a tourist.Then he put his hand into his pocket,and took out a phrasebook.He opened the book and found a phrase.He read the phrase slowly."I am sorry,"he said."I do not speak English."
+
+| week                   | 周                   |
+| ---------------------- | -------------------- |
+| London                 | 伦敦                 |
+| suddenly               | 突然地               |
+| bus stop               | 公共汽车站           |
+| smile                  | 微笑                 |
+| laught                 | 大声的笑             |
+| pleasantly             | 愉快的               |
+| understand (undertood) | 懂，明白             |
+| speak (spook)          | 说                   |
+| hand                   | 手                   |
+| pocket                 | 衣袋                 |
+| phrasebook             | 短语手册，常用语手册 |
+| handbook               | 指南                 |
+| phrase                 | 短语                 |
+| slowly                 | 缓慢地               |
+
+at bus top
+
+at the railway station
+
+at the airport
+
+a weekly wage 周薪
+
+speak ill of sb 说坏话
+
+second hand
+
+give sb a friendly smile
+
+laught at ... 嘲笑
+
+give sb a hand 帮忙
+
+
+
+# Lesson 74 What did they do?
+
+| hurriedly | 匆忙地 |
+| --------- | ------ |
+| cut (cut) | 切     |
+| thirstily | 口渴地 |
+| go(went)  | 走     |
+| greet     | 打招呼 |
+
+Example A
+
+He read the phrase slowly.
+
+He worked lazily.
+
+He cut himself badly.
+
+He worked carefully.
+
+The door opened suddenly.
+
+
+
+# Lesson 75 Uncomfortable shoes
+
+Do you have any shoes like these?
+
+What size?
+
+size five.
+
+What colour?
+
+Black.
+
+I'm sorry.We don't have any.
+
+But my sister bought this pair last month.
+
+Did she buy them here?
+
+No,she buy them in the U.S.
+
+We had some shoes like those a month ago,but we don't have any now.
+
+Can you get a pair for me,please?
+
+I'm afraid that I can't.They were in fashion last year and the year before last.But they,re not in fashion this year.These shoes are in fashion now.
+
+They look very uncomfortable.
+
+They are very uncomfortable.But women always wear uncomfortable shoes!
+
+| ago           | 以前     |
+| ------------- | -------- |
+| buy (bought)  | 买       |
+| pair          | 双，对   |
+| fashion       | 流行     |
+| uncomfortable | 不舒服的 |
+| wear (wore)   | 穿着     |
+
+not long ago
+
+long,long ago
+
+dressed in the lasted fashion 穿着时髦
+
+sell sth at a high price
+
+sell sth at a loss
+
+come into fashion
+
+be in fashion
+
+go out of fashion
+
+be out of fashion
+
+fashionable
+
+a few words of comfort 几句安慰的话
+
+wear a beard 留胡须
+
+
+
+# Lesson 76 When did you ...?
+
+Example A
+
+She met her friends yesterday.
+
+They drank some milk yesterday.
+
+He swam in the river yesterday.
+
+She took him to school yesterday.
+
+He cut himself yesterday.
+
+Example B
+
+When did you walk across the park?I walked across the park last week.
+
+When did you wash your hands?I washed my hands a minute ago.
+
+When did you work in an office?I worked in an office the year before last.
+
+When did you ask a question?I asked a question five minutes ago.
+
+When did you type those letters.I typed those letters a month ago.
+
+When did you watch television?I watched television every day this week.
+
+When did you talk to the shop assistant?I talked to the shop assistant last month.
+
+When did you thank your father?I thanked my father an hour ago.
+
+When did you dust the cupboard?I dusted the cupboard three days ago.
+
+When did you paint that bookcase?I painted that bookcase the year before last.
+
+When did you want a car like that one?I wanted a car like that one a year ago.
+
+When did you greet her?I greeted her a minute ago.
+
+
+
+# Lesson 77 Terrible toothache
+
+Good morning,Mr.Croft.
+
+Good morning,nurse.I want to see the dentist,please.
+
+Do you have an appointment?
+
+No,I don't.
+
+Is it urgent?
+
+Yes,it is.It's very urgent.I feel awful.I have a terrible toothache.
+
+Can you come at 10 a.m. on Monday,April 25th?
+
+I must see the dentist now,nurse.
+
+The dentist is very busy at the moment.Can you come at 2 p.m.?
+
+That's very late.Can the dentist see me now?
+
+I'm afraid that he can't,Mr.Croft.Can't you wait till this afternoon?
+
+I can wait,but my toothache can't!
+
+
+
+| appointment | 约会，预约           |
+| ----------- | -------------------- |
+| urgent      | （事情）紧急的       |
+| till        | 直到。。。为止       |
+| until       | 直到。。。为止(句首) |
+| appoint     | 指出，决定           |
+| worried     | （人）着急的，担忧的 |
+| date        | （男女）约会         |
+| anxious     | 急切的               |
+
+to make an appointment
+
+blind date 初次约会
+
+- worried最通用，表示对某个问题或可能发生的不幸有所担忧。
+- anxious可指较强烈的担忧和不安，且较正式。
+- nervous较常用以形容重要事情（如考试、面试）、令人不快或困难的事情发生前的紧张不安、战战兢兢。
+- nervous亦可指人的性格：a very nervous girl指性格易紧张不安的女孩，而a worried girl指在某个时刻或对某事担忧的女孩。
+- worried形容感觉而非性格，anxious既可形容感觉也可形容性格。
+
+
+
+# Lesson 78 When did you ...?
+
+Example A
+
+She ==bought== a new car last year.
+
+She aired it this morning.
+
+He ==lost== his pen this morning.
+
+She listened to the news yesterday.
+
+She emptied it yesterday.
+
+Example B
+
+I painted the room in 1996.
+
+She met him on 5th November.
+
+They arrived a quarter to eleven.
+
+He lost his pen on Saturday.
+
+
+
+# Lesson 79 Carol's shopping list
+
+What are you doing,Carol?
+
+I'm making a shopping list,Tom.
+
+What do we need?
+
+We need a lot of things this week.I must go to the grocer's.We haven't got much tea or coffee,and we haven't got any sugar or jam.
+
+What about vegetables?
+
+I must go to the greengrocer's.We haven't got many tomatoes,but we've got a lot of potatoes.I must go to the butcher's,too.We need some meat.We haven't got any meat at all.
+
+Have we got any beer and wine?
+
+No,we haven't.And I'm not going to get any!
+
+I hope that you've got some money.
+
+I haven't got much.
+
+Well,I haven't got much either!
+
+| shopping  | 购物 |
+| --------- | ---- |
+| list      | 单子 |
+| vegetable | 蔬菜 |
+| need      | 需要 |
+| hope      | 希望 |
+| thing     | 事物 |
+| money     | 钱   |
+
+
+
+# Lesson 80 I must go to the ...
+
+
+
+| groceries  | 食物杂货       |
+| ---------- | -------------- |
+| fruit      | 水果           |
+| stationery | 文具           |
+| newsagent  | 报刊零售人     |
+| chemist    | 药剂师，化学家 |
+
+steamed bread 馒头
+
+porridge 粥
+
+instant noodles 方便面
+
+I haven't got much butter.
+
+You haven't got many envelopes.
+
+We haven't got  much milk.
+
+She hasn't got many biscuits.
+
+They haven't got many stationeries.
+
+
+
+They need a lot of bread .They haven't got muchThey must go to the baker's to get some bread.
+
+She needs a lot of eggs.She hasn't got many.She must go to the grocer's to get some eggs.
+
+They need a lot of magazines.They haven't got many.They must go to the newsagent's to get some mazagines.
+
+I need a lot of beef.I haven't got much.I must go to the butcher's to get some beef.
+
+She needs a lot of butter.She hasn't got much.She must go to the grocer's to get some butter.
+
+They need a lot of bananas.They haven't got many.They must go to the greengrocer's to get some bananas.
+
+He needs a lot of medicine.He hasn't got much.He must go to the chemist's to get some medicine.
+
+
+
+# Lesson 81 Roast beef and potatoes
+
+Hi,Carol!Where's Tom?
+
+He's upstairs.He's having a bath.
+
+Tom!
+
+Yes?
+
+Sam's here.
+
+I'm nearly ready.
+
+Hello,Sam.Have a cigarette.
+
+No,thanks,Tom.
+
+Have a glass of whisky then.
+
+Ok.Thanks.
+
+Is dinner ready,Carol?
+
+It's nearly ready.We can have a dinner at seven o'clock.
+
+Sam and I had lunch together today.We went to a restaurant.
+
+What did you have?
+
+We had roast beef and potatoes.
+
+Oh!
+
+What's the matter,Carol?
+
+Well,you're going to have roast beef and potatoes again tonight!
+
+| bath       | 洗澡       |
+| ---------- | ---------- |
+| nearly     | 几乎       |
+| ready      | 准备好的   |
+| dinner     | 正餐，晚餐 |
+| restaurant | 餐馆       |
+| roast      | 烤的       |
+
+grill （用架子）烤；烧烤的肉类
+
+bake （炉子烤）
+
+fried 油炸
+
+stew 闷；炖
+
+boil 烧开，煮
+
+instant boil 涮
+
+
+
+# Lesson 82 I had ...
+
 
 
 
@@ -2978,7 +4347,10 @@ one two three four five six seven eight nine ten eleven tewlve thirteen fourteen
 
 the first the second the third the fourth the fifth the sixth the seventh the eighth the ninth the tenth the eleventh the twelfth the thirteenth the fourteenth the fifteenth the sixteenth the seventeenth the eighteenth the nineteenth the twentieth the twenty-first the thirtieth the fortieth the fiftieth the seventieth the eightieth the ninetieth the one hundredth the one hundred and first 
 
-
+- 结尾是1的：1，21，31后面加st（first的缩写）
+- 结尾是2的：2，22，32后面加nd（second的缩写）
+- 结尾是3的：3，23，33后面加rd（third的缩写）
+- 其他结尾都加th
 
 # 附2 名词复数
 
@@ -3009,3 +4381,56 @@ the first the second the third the fourth the fifth the sixth the seventh the ei
 | wife  | wives    |
 | sheep | sheep    |
 
+
+
+# 附3 时间
+
+| 8:20 | eight twenty |
+| ---- | ------------ |
+| 3:40 | three forty  |
+
+1.超过某个钟点30分钟之内，用past
+
+| 8:10 | ten past eight       |
+| ---- | -------------------- |
+| 3:15 | a quarter past three |
+| 9:30 | half past nine       |
+
+2.超过某钟点30分钟后用to
+
+| 6:35 | twenty-five to seven |
+| ---- | -------------------- |
+| 3:45 | a quarter to four    |
+
+3.在几点钟有at
+
+4.年的读法
+
+| 1931 | nineteen thiry-one         |
+| ---- | -------------------------- |
+| 1900 | nineteen hundred           |
+| 1908 | nineteen hundred and eight |
+| 2000 | two thousand               |
+| 2001 | two thousand and one       |
+
+in 月份，年份，国家
+
+at 时间，钟点，具体的位置或方位
+
+on 具体的日期，星期
+
+5.日期的读法
+
+7月2日  July the second
+
+on the twenty-eight
+
+on the July the second
+
+
+
+# 附4 形容词变副词（修饰动词）
+
+- 直接加ly
+- 以辅音字母加y结尾，y变ily
+- 不改变：late，fast，hard，well
