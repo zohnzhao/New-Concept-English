@@ -4329,7 +4329,1843 @@ instant boil 涮
 
 # Lesson 82 I had ...
 
+| breakfast | 早饭       |
+| --------- | ---------- |
+| haircut   | 理发       |
+| party     | 党派；聚会 |
+| holiday   | 假日       |
 
+Example A
+
+They had a meal at a restaurant.They ==ate== a meal at a restaurant.
+
+We had a  holiday last month.We went a holiday last month.
+
+Have a biscuit.Eat a biscuit.
+
+You had a good time.You enjoyed yourself.
+
+They are having their lunch.They eating their lunch.
+
+I had a glass of milk.I drank a glass of milk.
+
+Example B
+
+They are going to have breakfast.
+
+They are having lunch.
+
+he must have tea.
+
+They had dinner.
+
+They must have a meal.
+
+He is going to have a swim.
+
+He is having a bath.
+
+He had a haircut.
+
+They are having a lesson.
+
+They had a party.
+
+They must have a holiday.
+
+They are going to have a good time.
+
+
+
+# Lesson 83 Going on holiday
+
+Hello,Sam.Come in.
+
+Hi,Sam.We're having lunch.Do you want to have lunch with us?
+
+No,thank you,Tom.I've already had lunch.I had lunch at half past twelve.
+
+Have a cup of coffee then.
+
+I've just had a cup of coffee,thank you.I had one after my lunch.
+
+Let's go into the living room,Carol.We can have our coffee there.
+
+Excuse the mess,Sam.This room's very untidy.We're packing our suitcase.We're going to leave tomorrow.Tom and I are going to have a holiday.
+
+Aren't you lucky!
+
+When are you going to have a holiday,Sam?
+
+I don't konw.I've already had my holiday this year.
+
+Where did you go?
+
+I stayed at home!
+
+| mess               | 杂乱   |
+| ------------------ | ------ |
+| pack               | 打包   |
+| suitcase           | 手提箱 |
+| leave（left,left） | 离开   |
+| already            | 已经   |
+
+
+
+# 现在完成时
+
+（1）表示在过去不确定的时间里发生的并与现在有着某种联系的动作；
+
+（2）表示开始于过去并持续到现在的动作。
+
+现在完成时是由have的现在式加上过去分词组成。
+
+有明确时间就用一般过去时，没有就用现在完成时。
+
+# Lesson 84 Have you had ...?
+
+Example A
+
+I've already had some.
+
+I've already had one.
+
+I've already had one.
+
+I've already had some.
+
+I've already had one.
+
+I've already had one.
+
+I've already had some.
+
+Example B
+
+He hasn't had any beans.He've just had some peas.
+
+They haven't had any tea.They've just had some coffee.
+
+I haven't had any apples.I've just had some peaches.
+
+I haven't had any cabbage.I've just had some lettuce.
+
+She hasn't had any beer.She've just had some wine.
+
+He hasn't had any lamb.He've just had some beef.
+
+They haven't had any tea.They've just had some milk.
+
+She hasn't had any meet.She've just had some vegetables.
+
+I haven't had any chicken.I've just had some steak.
+
+They haven't had any bananas.They've just had some oranges.
+
+
+
+# Lesson 85 Paris in the spring
+
+Hello,Ken.
+
+Hi,George.
+
+Have you just been to the cinema?
+
+Yes,I have.
+
+What's on?
+
+'Paris in the spring'.
+
+Oh,I've already seen it.I saw it on television last year.It's an old film,but it's very good.
+
+Paris is a beautiful city.
+
+I've never benn there.Have you ever been there,Ken?
+
+Yes,I have.I was there in April.
+
+Pairs in the spring,eh?
+
+It was spring,but the weather was awful.It rained all the time.
+
+Just like London!
+
+
+
+| Paris     | 巴黎       |
+| --------- | ---------- |
+| cinema    | 电影院     |
+| film      | 电影       |
+| beautiful | 漂亮的     |
+| city      | 城市       |
+| never     | 从来没有   |
+| ever      | 在任何时候 |
+
+在school,work.church之前不加the
+
+
+
+# Lesson 86 What have you done?
+
+Example A
+
+She has just boiled an egg.
+
+She boiled it a minute ago.
+
+SHe has never been to China,but he was there in 1992.
+
+He has already painted that bookcase.
+
+He painted it a week ago.
+
+She emptied the basket this morning.
+
+He has just dusted the cupboard.
+
+Example B
+
+I‘ve already cleaned your shoes.I cleand your shoes last night.
+
+I‘ve already opened the window.I opened the window an hour ago.
+
+I‘ve already sharpen your pencil.I sharpened your pencil a minute ago.
+
+I‘ve already turned on the television.I turned on the televison ten minutes ago.
+
+I‘ve already boiled the milk.I boiled the milk yesterday morning.
+
+I‘ve already emptied the basket.I emptied the basket yesterday.
+
+I‘ve already asked a question.I asked a question two minutes ago.
+
+I‘ve already typed that letter.I typed that letter this morning.
+
+I‘ve already washed your hands.I washed your hands five minutes ago.
+
+I‘ve already walked across the park.I walked across the park an hour ago.
+
+I‘ve already painted that bookcase.I painted that bookcase a year ago.
+
+I‘ve already dusted the cupboard.I dusted the cupboard this afternoon.
+
+
+
+# Lesson 87 A car crash
+
+Is my car ready yet?
+
+I don't know,sir.What's the number of your car?
+
+It's LFZ312G.
+
+When did you bring it to us?
+
+I bought it here three days gao.
+
+Ah yes,I remember now.
+
+Have your mechanics finished yet?
+
+No,they're still working on it.Let's go into the garage and have a look at it.
+
+Isn't that your car?
+
+Well,it was my car.
+
+Didn't you have a crash?
+
+That's right.I drove it into a lamp-post.Can you mechanics repair it?
+
+Well,they're trying to repair it,sir.But to tell you the truth,you need a new car!
+
+| attendant                | 接待员     |
+| ------------------------ | ---------- |
+| bring（brought,brought） | 带来       |
+| garage                   | 汽车修理厂 |
+| crash                    | 碰撞       |
+| lamp-post                | 灯杆       |
+| repair                   | 修理       |
+| try                      | 努力，设法 |
+
+在英文中可以用一般疑问句的否定形式来表示期待，请求或希望得到肯定的答复。
+
+# Lesson 88 Have you ... yet?
+
+## 不规则的过去式和过去分词
+
+| 现在式 | 过去式 | 过去分词 |
+| ------ | ------ | -------- |
+| buy    | bought | bought   |
+| find   | found  | found    |
+| get    | got    | got      |
+| have   | had    | had      |
+| hear   | heard  | heard    |
+| leave  | left   | left     |
+| lose   | lost   | lost     |
+| make   | made   | made     |
+| meet   | met    | met      |
+| send   | sent   | sent     |
+| sweep  | swept  | swept    |
+| tell   | told   | told     |
+| cut    |        | cut      |
+|        | put    | put      |
+| read   | read   | read     |
+| set    | set    | set      |
+| shut   | shut   | shut     |
+| done   | done   | done     |
+|        |        | come     |
+|        |        | given    |
+|        |        | swum     |
+|        |        | taken    |
+|        |        | eaten    |
+|        |        | gone     |
+|        |        | risen    |
+|        | s      | seen     |
+|        |        |          |
+
+Example A
+
+Did he find his pen a minute ago?He didn't find his pen a minute ago.
+
+Did he get a new televison last week.He didn't get a new televison last week.
+
+Did we hear the news on the radio.We didn't hear the news on the radio.
+
+Did they leave this morning.They didn't leave this morning.
+
+Did he lose his umbrella yesterday.He didn't lose his umbrella yesterday.
+
+DId you sweep the floor this morning.I didn't sweep the floor this morning.
+
+Example B
+
+ Has he met Mrs.Jones yet?Yes,he has already met Mrs.Jones.When did he meet Mrs.Jones?He met Mrs.Jones two weeks ago.
+
+Has the boss left yet?Yes,the boss already left.When did the boss leave?The boss left ten minutes ago.
+
+Has he had breakfast yet?Yes,he already had breakfast.When did he have breakfast.He had breakfast half past seven.
+
+Has she found her pen yet?Yes,she already found her pen.When did she find her pen.She found her pen an hour ago.
+
+Has he got a television yet?Yes,he already got a television.When did he get a television.He got a television two weeks ago.
+
+Has she heard the news yet?Yes,she already heard the news.When did she hear the news.She heard the news yesterday.
+
+Has she made the bed yet?Yes,she already made the bed.When did she make the bed.She made the bed this morning.
+
+Has he sent the letter yet?Yes,he already sent the letter.When did he send the letter.He sent the letter the day before yesterday.
+
+Has she swept the floor yet?Yes,she already swept the floor.When did she sweep the floor.She swept the floor yesterday morning.
+
+Has she told him the truth yet?Yes,she already told him the truth.When did she tell him the truth.She told him the truth last night.
+
+
+
+# Lesson 89 For sale
+
+Good afternoon.I believe that this house is for sale.
+
+That's right.
+
+May I have a look at it,please?
+
+Yes,of course.Come in.
+
+How long have you lived here?
+
+I've lived here for twenty years.
+
+Twenty years!That's a long time.
+
+Yes,I've been here since 1976.
+
+Then why do you want to sell it?
+
+Because I've just retired.I want to buy a small house in the country.
+
+How much does thie house coast?
+
+$68,500.
+
+That's a lot of money!
+
+It's worth every penny of it.
+
+well,I like the house,but I can't decide yet.My wife must see it first.
+
+Women always have the last word.
+
+|         | 相信         |
+| ------- | ------------ |
+|         | 可以         |
+|         | 多长         |
+| since   | 自从         |
+| why     | 为什么       |
+| sell    | 卖           |
+| because | 因为         |
+| retire  | 退休         |
+| cost    | 花费         |
+| pound   | 英镑         |
+| worth   | 值。。。钱的 |
+|         | 便士         |
+
+
+
+# Lesson 90 Have you ... yet?
+
+Example A
+
+Did the sun set at twenty past seven?The sun didn't set at twenty past seven.
+
+Did he eat his lunch at one o'clock?He didn't eat his lunch at one o'clock.
+
+Did they do their homework last night?They didn't do their homework last night?
+
+Did he come by car this morning?He didn't come by car this morning.
+
+Did the sun rise at half past five?The sun didn't rise at half past five.
+
+Did us swim across the river yesterday?We didn't swim across the river yesterday.
+
+Example B
+
+Did you do your homework last night?Yes,I did my homework last night.What about Tom?He hasn't done his homework yet.
+
+Did Mrs.Jones go to the butcher's this morning?Yes,she went to the butcher's this morning.What about Mrs.Williams?SHe hasn't gone to the butcher's yet.
+
+Did you speak to him yesterday?Yes,I spoke to him yesterday.What about Susan?She hasn't spoken to him yet.
+
+Did George swim across the river an hour ago?Yes,he swam across the river an hour ago.What about Sam?He hasn't swum across the river yet.
+
+Did you see that film yesterday?Yes,I saw the film yesterday.What about Sam and Penny?Sam and Penny haven't seen the film yet.
+
+Did Tim take off his shoes a minute ago?Yes,he took off his shoes a minute ago.What about Frank?He hasn't taken off his shoes yet.
+
+
+
+# Lesson 91 Poor Ian!
+
+Has Ian sold his house yet?
+
+Yes,he has.He sold it last week.
+
+Has he moved to his new house yet?
+
+No,not yet.He's still here.He's going to move tomorrow.
+
+When?Tomorrow morning?
+
+No.Tomorrow afternoon.I'll miss him.He has always been a good neighbour.
+
+He's a very nice person.We'll all miss him.
+
+When will the new people move into this house?
+
+I think that they'll move in the day after tomorrow.
+
+Will you see Ian today,Jenny?
+
+Yes,I will.
+
+Please give him my regards.
+
+Poor Ian!He didn't want to leave this house.
+
+No,he didn't want to leave,but his wife did!
+
+| still     | 还；仍旧       |
+| --------- | -------------- |
+| move      | 搬家           |
+| miss      | 思念           |
+| neighbour | 邻居           |
+| person    | 人             |
+| people    | 人们           |
+| poor      | 可怜的；贫穷的 |
+
+
+
+# 一般将来时
+
+表示将来某时刻的动作，状态及打算。
+
+格式：主语+will/shall+动词原形
+
+
+
+# Lesson 92
+
+Example A
+
+He'll arrive tomorrow morning.
+
+She'll come this evening.
+
+It'll snow tonight.
+
+He'll not believe me.
+
+Example B
+
+It snowed yesterday.Yes,and it will snow tomorrow,too.
+
+He got up late yesterday.Yes,and he will get up late tomorrow,too.
+
+He arrived late yesterday.Yes,and he will arrive late tomorrow,too.
+
+He finished work late yesterday.Yes,and he will finish work late tomorrow,too.
+
+She drove to London yesterday.Yes,and she will drive to London tomorrow,too.
+
+She telephoned him yesterday.Yes,and she will telephone him tomorrow,too.
+
+He had a shave yesterday.Yes,and he will have a shave tomorrow,too.
+
+She swept the floor yesterday.Yes,and she will sweep the floor tomorrow,too.
+
+
+
+# Lesson 93 Our new neighbour
+
+Nigel is our new next-door neighbour.He's a pilot.He was in the R.A.F.He will fly to New York next month.The month after next he'll fly to Tokyo.At the moment,he's in Madrid.He flew to Spain a week ago.He'll return to London the week after next.He's only forty-one years old,and he has already been to nearly every country in the world.Nigel is a very lucky man.But his wife isn't very lucky.She ususally stays at home!
+
+| pilot    | 飞行员 |
+| -------- | ------ |
+| return   | 返回   |
+| New York | 纽约   |
+| Tokyo    | 东京   |
+| Madrid   | 马德里 |
+| fly      | 飞行   |
+
+return to life 复活。
+
+return to oneself 苏醒
+
+treat you to dinner 请你吃饭
+
+
+
+# Lesson 94 When did you/will you go to ...?
+
+| Athens    | 雅典       |
+| --------- | ---------- |
+| Berlin    | 柏林       |
+| Bombay    | 孟买       |
+| Geneva    | 日内瓦     |
+| Moscow    | 莫斯科     |
+| Rome      | 罗马       |
+| Seoul     | 首尔       |
+| Stockholm | 斯德哥尔摩 |
+| Sydney    | 悉尼       |
+
+Lesson A
+
+He will go to New York next week.
+
+She will go to Sydney next month.
+
+I will go to Paris the year after next.
+
+We will go to Stockholm next year.
+
+They will go to Geneva the week after next.
+
+Lesson B
+
+No,she won't return to Geneva next year.She'll return to Bombay.
+
+No,I won't fly to London tomorrow.I'll fly to Geneva
+
+No,Tom and me won't go to Madrid next month.Tom and me will go to London.
+
+No,he won't arrive from Moscow next month.He will arrive from Madrid.
+
+
+
+# Lesson 95 Tickets,please.
+
+Two return tickets to London,please.What time will the next train leave?
+
+At nineteen minutes past eight.
+
+Which platform?
+
+Platform Two.Over the bridge.
+
+What time will the next train leave?
+
+At eight nineteen.
+
+We've got plenty of time.
+
+It's only three minutes to eight.
+
+Let's go and have a drink.There's a bar next door to the station.
+
+We had better go back to the station now,Ken.
+
+Tickets,please.
+
+We want to catch the eight nineteen to London.
+
+You've just missed it!
+
+What!It's only eight fifteen.
+
+I'm sorry,sir.That clock's ten minutes slow.
+
+When's the next train?
+
+In five hours' time!
+
+|         | 往返           |
+| ------- | -------------- |
+|         | 火车           |
+|         | 站台           |
+| plenty  | 大量           |
+| bar     | 酒吧           |
+| station | 车站           |
+| porter  | 乘务员；搬运工 |
+| catch   | 赶上           |
+|         | 错过           |
+
+
+
+# Lesson 96 What's the exact time?
+
+Example A
+
+I had better stay here.
+
+We had better wait for him.
+
+You had better call a doctor.
+
+They had better go home.
+
+She had better hurry.
+
+You had better be carefull.
+
+Example B
+
+I‘ll go to Sydney in a month's time.
+
+The next one will leave for Geneva in an hour's time.
+
+I'll fly to Beijing in two days' time.
+
+Jean and me will go to London in an hour's time.
+
+
+
+# Lesson 97 A small blue case
+
+I left a suitcase on the train on London the other day.
+
+Can you describe it,sir?
+
+It's a small blue case and it's got a zip.There's a label on the handle with my name and address on it.
+
+Is this case yours?
+
+No,that's not mine.
+
+What about this one?This one's got a label.
+
+Let me see it.
+
+What's your name and address?
+
+David Hall,83,Bridge Street.
+
+That's right.D.N.Hall,83,Bridge Street.
+
+Three pounds fifty pence,please.
+
+Here you are.
+
+Thank you.
+
+Hey!
+
+What's the matter?
+
+THis case doesn't belong to me!You've given me the wrong case!
+
+| leave（left，left） | 遗留        |
+| ------------------- | ----------- |
+|                     | 描述        |
+| z                   | 拉链        |
+| label               | 标签        |
+| handle              | 把手        |
+| address             | 地址        |
+| pence               | penny的复数 |
+|                     | 属于        |
+
+
+
+# Lesson 98 Whose is it?Whose are they?
+
+Is this Jane's passport?Yes,it's hers.It belong to her.
+
+Are these their tickets?Yes,these are theirs.It belong to them.
+
+Is this your watch?Yes,it is mine.It belong to me.
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+|      | her  |
+|      | ours |
+|      |      |
+
+
+
+# Lesson 99 Ow!
+
+Ow!
+
+What's the matter,Andy?
+
+I slipped and fell downstairs.
+
+Have you hurt yourself?
+
+Yes,I have.I think that I've hurt my back.
+
+Try and stand up.Can you stand up?Here.Let me help you.
+
+I'm sorry,Lucy.I'm affraid that I can't get up.
+
+I think that the docter had better see you.I'll phone Dr.Carter.
+
+The doctor says that he will come at once.I'm sure that you need an X-ray,Andy.
+
+|            | 哎呦     |
+| ---------- | -------- |
+|            | 滑倒     |
+|            | 落下     |
+| downstairs | 下楼     |
+| hurt       | 伤       |
+| back       | 背       |
+| stand up   | 起立     |
+| help       | 帮助     |
+| at once    | 立即     |
+| sure       | 一定的   |
+|            | X 光透视 |
+|            | 执照     |
+
+
+
+# Lesson 100 He says that...She says that...They say that...
+
+Example A
+
+She says that she has founding her pen.
+
+They say that they must remain here.
+
+He says that he remembers you.
+
+She says that she doesn't speak English.
+
+They say that they're washing the dishes.
+
+Example B
+
+He says that he feels ill.
+
+She says that she has got a headache.
+
+He says that he wants a haircut.
+
+They say that they are thirsty.
+
+
+
+# Lesson 101 A card from Jimmy
+
+Read Jimmy's card to me please,Penny.
+
+'I've just arrived in Scotland and I'm staying at a Youth Hostel.'
+
+Eh?
+
+He says he's just arrived in Scotland.He says he's staying at a Youth Hostel.You know he's a member of the Y.H.A.
+
+The what?
+
+The Y.H.A.,Mum.The Youth Hostels Association.
+
+What else does he say?
+
+'I'll write a letter soon.I hope you are all well.'
+
+What?Speak up,Penny.I'm afraid I can't hear you.
+
+He says he'll write a letter soon.He hopes we are all well.'Love,Jimmy.'
+
+Is that all?He doesn't say very much,does he?
+
+He can't write very much on a card,Mum.
+
+| Scotland    | 苏格兰 |
+| ----------- | ------ |
+|             | 明信片 |
+|             | 青年   |
+| hostel      | 招待所 |
+| association | 协会   |
+| soon        | 不久   |
+|             | 写     |
+
+
+
+# Lesson 102 He says he ...She says she ...They say they ...
+
+Example A
+
+She says she has shut the door.
+
+He says he has put on his coat.
+
+He says he has read this magazine.
+
+They say they has spoken to the boss.
+
+Example B
+
+He says he feels cold.
+
+He says he feels tired.
+
+He says he feels thirsty.
+
+He says he has got a cold.
+
+He says he will sell his house.
+
+He says he needs a haircut.
+
+He says he has got an earache.
+
+He says he needs an X-ray.
+
+He says he must wait for a bus.
+
+
+
+# Lesson 103 The Frence test
+
+How was the exam,Richard?
+
+Not too bad.
+
+I think I passed in English and Mathematics.The questions were very easy.How about you,Gary?
+
+The English and Maths papers weren't easy enough for me.I hope I haven't failed.
+
+I think I failed the French paper.I could anwser sixteen of the questions.They were very easy.But I couldn't anwser the test.They were too difficult for me.
+
+French tests are awful,aren't they?
+
+I hate them.I'm sure I've got a low mark.
+
+Oh,cheer up!Perhaps we didn't do too badly.The guy next to me wrote his name at the top of the paper.
+
+Yes?
+
+Then he sat there and looked at it for three hours!He didn't write a  word!
+
+| exam                       | 考试         |
+| -------------------------- | ------------ |
+| pass                       | 及格         |
+| mathematics（缩写：maths） | 数学         |
+| question                   | 问题         |
+| easy                       | 容易的       |
+| enough                     | 足够地       |
+| paper                      | 纸           |
+| fail                       | 未及格，失败 |
+| answer                     | 回答         |
+| mark                       | 分数         |
+| rest                       | 其他的东西   |
+| difficult                  | 困难的       |
+| hate                       | 讨厌         |
+| low                        | 低的         |
+| cheer                      | 振奋         |
+| guy                        | 家伙         |
+| top                        | 上方         |
+
+
+
+# Lesson 104 Too,very,enough
+
+| clever    | 聪明的   |
+| --------- | -------- |
+| stupid    | 笨的     |
+| cheap     | 便宜的   |
+| expensive | 贵的     |
+| fresh     | 新鲜的   |
+| stale     | 不新鲜的 |
+| low       | 低的     |
+| loud      | 大声的   |
+| high      | 高的     |
+| hard      | 硬的     |
+| sweet     | 甜的     |
+| soft      | 软的     |
+| sour      | 酸的     |
+
+Could he buy the car?Yes,he could.They were cheap enough for him to buy.No,he couldn't.They were too expensive for him to buy.
+
+Could they eat the cakes?Yes,they could.They were fresh enough for them to eat.No,they couldn't.They were too stale for them to eat.
+
+Could they hear the stereo?Yes,they could.They were loud  enough for them to hear.No,they couldn't.They were too low for them to hear.
+
+
+
+# Lesson 105 Full of mistakes
+
+Where's Sandra,Bob?I want her.
+
+Do you want to speak to her?
+
+Yes,I do.I want her to come to my office.Tell her to come at once.
+
+Did you want to see me?
+
+Ah,yes,Sandra.How do you spell 'intelligent'?Can you tell me?
+
+I-N-T-E-L-L-I-G-E-N-T.
+
+That's right.You've typed it with only one 'L'.This letter's full of minstakes.I want you to type it again.
+
+Yes,I'll do that.I'm sorry about that.
+
+And here's a little persent for you.
+
+What is it?
+
+It's a dictionary.I hope it'll help you.
+
+| spell       | 拼写       |
+| ----------- | ---------- |
+| intelligent | 聪明的     |
+| mistake     | 错误       |
+| present     | 礼物；出席 |
+| dictionary  | 词典       |
+
+
+
+# Lesson 106 I want you/him/her/them to ...
+
+| carry   | 带   |
+| ------- | ---- |
+| keep    | 保存 |
+| correct | 纠正 |
+
+I want you to spell it.
+
+I want you to wear it.
+
+I want you to tell them.
+
+I want you to telephone him.
+
+I want you to ask her.
+
+I want you to help us.
+
+What do you want me to do?I want you to carry it.
+
+What do you want me to do?I want you to listen to it.
+
+What do you want me to do?I want you to move it.
+
+What do you want me to do?I want you to finish it.
+
+What do you want me to do?I want you to correct it.
+
+What do you want me to do?I want you to desribe it.
+
+What do you want me to do?I want you to try it.
+
+What do you want me to do?I want you to keep it.
+
+She is telling him not to hurt himself.She doesn't want him to hurt himself.
+
+She is telling him not to fall.She doesn't want him to fall.
+
+She is telling him not to break it.She doesn't want him to break it.
+
+
+
+# Lesson 107 It's too small.
+
+Do you like this dress ,madam?
+
+I like the colour very much.It's a lovely dress,but it's too small for me.
+
+What about this one?It's a lovely dress.It's very smart.Short skirts are in fashion now.Would you like to try it?
+
+All right.I'm afraid this green dress is too small for me as well.It's smaller than the blue one.I don't like the colour either.It doesn't suit me at all.I think the blue dress is prettier.Could you show me another blue dress?I want a dress like that one,but it must be my size.
+
+I'm afraid I haven't got a larger dress.This is the largest dress in the shop.
+
+| madam   | 夫人                 |
+| ------- | -------------------- |
+| smart   | 漂亮的；伶俐的       |
+| as well | 同样                 |
+| suit    | 适合                 |
+| pretty  | 漂亮的（女孩，小孩） |
+
+
+
+# 比较级和最高级
+
+比较级：大多数单音节的形容词的比较级在原级加er，有些以y结尾的双音节，y前面是一个辅音字母，y变i再加er
+
+最高级：在原级加est,在最高级形容词之前加定冠词the。最高级用在一个人或物与其他一个以上做比较。
+
+大多数两个以上音节的形容词与more/less 连用构成比较级，与most/least连用构成最高级
+
+| small  | smaller  |
+| ------ | -------- |
+| large  | larger   |
+| pretty | prettier |
+| cold   | colder   |
+| nice   | nicer    |
+| hot    | hotter   |
+| heavy  | heavier  |
+| warm   | warmer   |
+| fat    | fatter   |
+| thin   | thinner  |
+| big    | bi       |
+| clean  | cleaner  |
+| old    | older    |
+| long   | longer   |
+| shurt  | shorter  |
+| blunt  | blunter  |
+| cheap  | cheaper  |
+
+
+
+# Lesson 108 How do they compare
+
+It is wet today,but it was weter yesterday.
+
+It is cold today,but it was colder yesterday.
+
+He's late again today,but he was later yesterday.
+
+This test is easy,but that one is easier.
+
+This bookcase is large,but that one is larger.
+
+I am older than you are.I am the oldest in the class. 
+
+I am taller than you are.I am the tellest in the class. 
+
+I am lazier than you are.I am the laziest in the class. 
+
+I am heavier than you are.I am the heaviest in the class. 
+
+I am luckier than you are.I am the luckiest in the class. 
+
+I am fatter than you are.I am the fattest in the class. 
+
+I am thinner than you are.I am the thinnest in the class. 
+
+I am bigger than you are.I am the biggest in the class. 
+
+
+
+# Lesson 109 A good idea
+
+Shall I make some coffee,Jane?
+
+That's a good idea,Charlotte.
+
+It's ready.Do you want any milk?
+
+Just a little,please.
+
+What about some sugar?Two teaspoonfuls?
+
+No,less than that.One and a half teaspoonfuls,please.That's enough for me.
+
+That was very nice.
+
+Would you like some more?
+
+Yes,please.I'd like a cigarette,too.May I have one?
+
+Of course.I think three are a few in that box.
+
+I'm afraid it's empty.
+
+What a pity!
+
+It doesn't matter.
+
+Have a biscuit instead.Eat more and smoke less!
+
+That's very good advice!
+
+| idea        | 主意         |
+| ----------- | ------------ |
+| a little    | 少许         |
+| reaspoonful | 一满茶匙     |
+| less        | 较少的       |
+| a few       | 几个（可数） |
+| pity        | 遗憾         |
+| instead     | 代替         |
+| advice      | 建议         |
+
+
+
+# 110 how do they compare?
+
+| most  | many,much |
+| ----- | --------- |
+| least | little    |
+| best  | good      |
+| worse | bad       |
+| wrost | bad       |
+
+I haven't got any pens.I haven't got many either.
+
+可数：much few
+
+不可数：many little
+
+
+
+# 111 The most expensive model
+
+I like this television very much.How much does it cost?
+
+It's the most expnesive model in the shop.It costs five hundred pounds.
+
+That's too expensive for us.We can't afford all that money.
+
+This model's less expensive than that one.It's only three hundred pounds.But,of course,it's not as good as the expensive one.
+
+I don't like this model.The other model's more expensive,but it's worth the money.
+
+Can we buy it on instalments?
+
+Of course.You can pay a deposit of thirty pounds,and then fourteen pounds a month for three years.
+
+Do you like it,dear?
+
+I certainly do,but I don't like the price.You always want the best,but we can't afford it.Sometimes you think you're a millionaire!
+
+Millionaires don't buy things on instalments!
+
+| model       | 模型     |
+| ----------- | -------- |
+| afford      | 付的起   |
+| deposit     | 预付定金 |
+| instalment  | 分期付款 |
+| price       | 价格     |
+| millionaire | 百万富翁 |
+
+
+
+# Lesson 112 How do they compare?
+
+This dress is long,but that one is longer.
+
+Tom is intelligent,but Bill is more intelligent.
+
+Is the green apple as sweet as the red apple?No,it isn't.The green apple isn't as sweet as the red apple.
+
+
+
+# Lesson 113 Small change
+
+Fares,please!
+
+Trafalger Square,please.
+
+I'm sorry,sir.I can't change a ten-pound note.Haven't you got any small change?
+
+I've got no small change,I'm afraid.
+
+I'll ask some of the passengers.
+
+Have you any small change,sir?
+
+I'm sorry.I've got none.
+
+I haven't got any either.
+
+Can you change this ten-pound note,madam?
+
+I'm afraid I can't.
+
+Neither can I.
+
+I'm very sorry,sir.You must get off the bus.None of our passengers can change this note.They're all millionaires!
+
+Except us.
+
+I've got some small chage.
+
+So have I.
+
+| conductor | 售票员       |
+| --------- | ------------ |
+| fare      | 乘客         |
+| change    | 兑换         |
+| note      | 纸币         |
+| passenger | 乘客         |
+| none      | 没有任何东西 |
+| neither   | 也不         |
+| get off   | 下车         |
+| tramp     | 流浪汉       |
+| except    | 除。。。外   |
+
+
+
+# Lesson 114 I‘ve got none
+
+There are no books on that shelf.
+
+I have got no money.
+
+There is no coffee in this tin.
+
+I saw no cars in the street.
+
+Have you got any milk?No,I haven't got any milk.I've got no milk.I've got none.
+
+I'm not hungry.Neither am I.I'm not hungry,either.
+
+I'm hungry.So am I.I'm hungry,too.
+
+
+
+# Lesson 115 Knock,Knock!
+
+Isn't there anyone at home?
+
+I'll knock again,Helen.Everything's very quiet.I'm sure there's no one at home.
+
+But that's impossible.Carol and Tom invited us to lunch.Look through the window.
+
+Can you see anything?
+
+Nothing at all.
+
+Let's try the back door.
+
+Look!Everyone's in the garden.
+
+Hello,Helen.Hello,Jim.
+
+Everybody wants to have lunch in the garden.It's nice and warm out here.
+
+Come and have something to drink.
+
+Thanks,Carol.May I have a glass of beer please?
+
+Beer?There's none left.You can have some lemonade.
+
+lemonade!
+
+Don't believe her,Jim.She's only joking.Have some beer!
+
+| anyone     | 任何人     |
+| ---------- | ---------- |
+| knock      | 敲，打     |
+| everything | 一切事物   |
+| quiet      | 宁静的     |
+| impossible | 不可能的   |
+| invite     | 邀请       |
+| anything   | 任何东西   |
+| nothing    | 什么也没有 |
+| lemonade   | 柠檬水     |
+| joke       | 开玩笑     |
+
+
+
+# Lesson 116 Every,no,any and some
+
+| asleep  | 睡觉，睡着 |
+| ------- | ---------- |
+| glasses | 眼睛       |
+
+I did nothing.
+
+I saw no one.
+
+I went nowhere.
+
+I met nobody.
+
+| Every      | None    | Any      | Some      |
+| ---------- | ------- | -------- | --------- |
+| Everyone   | No one  | Anyone   | Someone   |
+| Everybody  | Nobody  | Anybody  | Somebody  |
+| Everything | Nothing | Anything | Something |
+| Everywhere | Nowhere | Anywhere | Somewhere |
+
+
+
+# Lesson 117 Tommy's breakfast
+
+When my husband was going into the dining room this morning,he dropped some coins on the floor.There were coins everywhere.We looked for them,but we could not find them all.While we were having breakfast,our little boy,Tommy,found two small coins on the floor.He put them both into his mouth.We both tried to get the coins,but it was too late.Tommy bad already swallowed them!Later that morning,when I was doing the housework,my husband phoned me from the office.'How's Tommy?'he asked.'I don't know,'I answered,'Tommy's been to the toilet three times this morning,but I haven't had any change yet!'
+
+| dining room | 餐厅 |
+| ----------- | ---- |
+| coin        | 硬币 |
+| mouth       | 嘴   |
+| swallow     | 吞下 |
+| later       | 后来 |
+| toilet      | 厕所 |
+
+
+
+# 过去进行时
+
+在英文中表示过去某时正在进行的动作。过去进行时与现在进行时的区别就在于要用be的过去式。
+
+# Lesson 118 What were you doing?
+
+He arrived.I had a bath.He arrived when I was having a bath.
+
+What were you doing when he arrived?When he arrived I was having a bath.
+
+What was he doing while you were cooking the dinner?While I was cooking the dinner,he was working in the garden.
+
+
+
+# Lesson 119 A true story
+
+Do you like stories?I want to tell you a true story.It happened to a firend of mine a year ago.While my friend,George,was reading in bed,two thieves climbed into his kitchen.After they had entered the house,they went into the dining room.It was very dark,so they turned on a torch.Suddenly,they heard a voice behind them.'What's up?What's up?'someone called.The thieves dropped the torch and ran away as quickly as they could.George heard the noise and came downstairs quickly.He turned on the light,but he couldn't see anyone.The thieves had already gone.But George's parrot,Henry,was still there.'What's up, George?'he called.'Nothing,Henry,'George said and smiled.'Go back to sleep.'
+
+| story         | 故事   |
+| ------------- | ------ |
+| happen        | 发生   |
+| thief         | 贼     |
+| enter         | 进入   |
+| dark          | 黑暗的 |
+| torch         | 手电筒 |
+| voice         | 声音   |
+| parrot        | 鹦鹉   |
+| exercise book | 练习本 |
+
+
+
+# Lesson 120 It had already happened.
+
+She went home after sge had typed the letter.
+
+Have you met him?Yes,I have just met him.I had never met him before.
+
+Why didn't you sweep the floor?It was too late.She had already swept it.
+
+I read the book after I had seen the film.
+
+
+
+# Lesson 121 The man in a hat
+
+I bought two expensive dictionaries here half an hour ago,but I forgot to take them with me.
+
+Who served you,sir?
+
+The lady who is standing behind the counter.
+
+Which books did you buy?
+
+The books which are on the counter.
+
+Did you serve this gentleman half an hour ago,Caroline?He says he's the man who bought these books.
+
+I can't remember.The man who I served was wearing a hat.
+
+Have you got a hat,sir?
+
+Yes,I have.
+
+Would you put it on,please?
+
+All right.
+
+Is this the man that you served,Caroline?
+
+Yes.I recognize him now.
+
+| customer                 | 顾客 |
+| ------------------------ | ---- |
+| forget(forgot,forgotten) | 忘记 |
+| manager                  | 经理 |
+| serve                    | 照应 |
+| counter                  | 柜台 |
+| recognize                | 认出 |
+
+
+
+# Lesson 122 Who(whom),which and that
+
+She is the girl who met me yesterday.
+
+This is the book which I bought yesterday.
+
+She is the girl who (or whom) I met yesterday.
+
+
+
+# Lesson 123 A trip to Australia
+
+Look,Scott.This is a photograph I took during my trip to Australia.
+
+Let me see it,Mike.This is a good photograph.Who are these people?
+
+They're people I met during the trip.That's the ship we travelled on.
+
+What a beautiful ship!Who's this?
+
+That's the man I told you about.Remember?
+
+Ah yes.The one who offered you a job in Australia.
+
+That's right.
+
+Who's this?
+
+Guess!
+
+It's not you,is it?
+
+That's right.
+
+I grew a beard during the trip,but I shaved it off when I came home.
+
+Why did you shave it off?
+
+My wife didn't like it!
+
+| during | 在。。。期间     |
+| ------ | ---------------- |
+| trip   | 旅行 n.          |
+| travel | 旅行 v.          |
+| offer  | 提供             |
+| job    | 工作             |
+| guess  | 猜               |
+| grow   | 长，在。。。生长 |
+| beard  | 胡子             |
+| kitten | 小猫             |
+
+
+
+# Lesson 124 (who)/(whom),(which)and(that)
+
+She is the girl I met yesterday.
+
+This is the book I bought yesterday.
+
+
+
+# Lesson 125 Tea for two
+
+Can't you come in and have tea now,Peter?
+
+Not yet.I must water the garden first.
+
+Do you have to water it now?
+
+I'm afraid I must.Look at it!It's terribly dry.
+
+What a nuisance!
+
+Last summer it was very dry,too.Don't you remember?I had to water it every day.
+
+Well,I'll have tea by myself.That was quick!Have you finished already?
+
+Yes.Look out of the window.
+
+It's raining!That means you don't need to water the garden.
+
+That was a pleasant surprise.It means I can have tea,instead.
+
+| water             | 浇水         |
+| ----------------- | ------------ |
+| terribly          | 非常         |
+| dry               | 干燥的，干的 |
+| nuisance          | 讨厌的。。。 |
+| mean(meant,meant) | 意味着       |
+| surprise          | 惊奇         |
+| immediately       | 立即地       |
+
+
+
+# Lesson 126 Have to and do not need to
+
+Do you have to leave early?You don't have to leave early.
+
+
+
+# Lesson 127 A famous actress
+
+Can you recognize that woman,Liz?
+
+I think I can,Kate.It must be Karen Marsh,the actress.
+
+I thought so.Who's that beside her?
+
+That must be Conrad Reeves.
+
+Conrad Reeves,the actor?It can't be.Let me have another look.I think you're right!Isn't he her third husband?
+
+No.He must be her fourth or fifth.
+
+Doesn't Karen Marsh look old!
+
+She does,doesn't she!I read she's twenty-nine,but she must be at least forty.
+
+I'm sure she is.
+
+She was a famous actress when I was still at school.
+
+That was a long time ago,wasn't it?
+
+Not that long ago!I'm not more than twenty-nine myself.
+
+| famous          | 著名的 |
+| --------------- | ------ |
+| actress         | 女演员 |
+| at least        | 至少   |
+| actor           | 男演员 |
+| read(read,read) | 读     |
+
+
+
+# Lesson 128 He can't/must be ...
+
+He must be home before six o'clock.He has to be home before six o'clock.
+
+I think she's Danish.I don't think so.She can't be Danish.She must be Swedish.
+
+
+
+# Lesson 129 Seventy miles an hour
+
+Look,Gary!That policeman's waving to you.He wants you to stop.
+
+Where do you think you are?On a race track?You must have been driving at seventy miles an hour.
+
+I can't have been.
+
+I was doing eighty when I overtook you.
+
+Didn't you see the speed limit?
+
+I'm afraid I didn't,officer.I must have been dreaming.
+
+He wasn't dreaming,officer.I was telling him to drive slowly.
+
+That's why I didn't see the sign.
+
+Let me see your driving licence.
+
+I won't charge you this time.But you'd better not do it again!
+
+Thank you.I'll certainly be more careful.
+
+I told you to drive slowly,Gary.
+
+You always tell me to drive slowly,darling.
+
+Well,next time you'd better take my advice!
+
+| wave                         | 招手             |
+| ---------------------------- | ---------------- |
+| track                        | 跑到             |
+| mile                         | 英里             |
+| overtake(overtook,overtaken) | 超车             |
+| speed                        | 限速             |
+| dream                        | 做梦，思想不集中 |
+| sign                         | 标记，牌子       |
+| driving licence              | 驾驶执照         |
+| charge                       | 罚款             |
+| darling                      | 亲爱的           |
+
+
+
+# Lesson 130 He can't/must have been ...
+
+He didn't get up early this morning.He must have been tired.
+
+I don't think she was.She can't have been Danish.She must have been Swedish.
+
+
+
+# Lesson 131 Don't be so sure!
+
+Where are you going to spend your holidays this year,Gary?
+
+We may go abroad.I'm not sure.My wife wants to go to Egypt.I'd like to go there,too.We can't make up our minds.  
+
+Will you travel by sea or by air?
+
+We may travel by sea.
+
+It's cheaper,isn't it?
+
+It may be cheaper,but it takes a long time.
+
+I'm sure you'll enjoy yourselves.
+
+Don't be so sure.We might not go anywhere.My wife always worries too much.Who's going to look after the dog?Who's going to look after the house?Who's going to look after the garden?We have this problem every year.In the end,we stay at home and look after everything!
+
+| Egypt  | 埃及 |
+| ------ | ---- |
+| abroad | 国外 |
+| worry  | 担忧 |
+
+may 后面加动词原型
+
+
+
+# Lesson 132 He may be ... He may have been ... I'm not sure.
+
+Do you think she is Danish?I'm not sure.She may be Swedish.
+
+Do you think she was Danish?I'm not sure.She may have been Swedish.
+
+
+
+# Lesson 133 Sensational news!
+
+Have you just made a new film,Miss Marsh?
+
+Yes,I have.
+
+Are you going to make another?
+
+No,I'm not.I'm going to retire.I feel very tired.I don't want to make another film for a long time.
+
+Let's buy a newspaper,Liz.Listen to this!'Karen Marsh:Sensational news!By our reporter,Alan Jones.Karen Marsh arrived at London Airport today.She was wearing a blue dress and a mink coat.She told me she had just made a new film.She said she was not going to make another.She said she was going to retire.She told reporters she felt very tired and didn't want to make another film for a long time.'I wonder why!
+
+| reporter    | 记者     |
+| ----------- | -------- |
+| sensational | 爆炸性的 |
+| mink coat   | 貂皮大衣 |
+
+
+
+# Lesson 134 He said (that) he ...He told me (that) he ...
+
+I'm tired.What did he say?He said he was tired.
+
+I'm reading.What did he tell you?He told me he was reading.
+
+I've finished.What did he tell you?He told me he had finished.
+
+
+
+# Lesson 135 The lastest report
+
+Are you really going to retire,Miss Marsh?
+
+I may.I can't make up my mind.I will have to ask my furture husband.He won't let me make another film.
+
+Your future husband,Miss Marsh?
+
+Yes.Let me introduce him to you.His name is Carlos.We're goint to get married next week.
+
+Look,Liz!Here's another report about Karen Marsh.Listen:'Karen Marsh:The lastest.At her London Hotel today Miss Marsh told reporters she might retire.She said she couldn't make up her mind.She said her future husband would not let her make another film.Then she introduced us to Carlos and told us they would get married next week.'
+
+That's sensational news,isn't it,Kate?
+
+It certainly is.He'll be her sixth husband!
+
+| future      | 未来的 |
+| ----------- | ------ |
+| get married | 结婚   |
+| hotel       | 饭店   |
+| latest      | 最新的 |
+| introduce   | 介绍   |
+
+
+
+# Lesson 136 He said (that) he ...He told me (that) he ...
+
+I will leave tomorrow.What did he say?He said he would leave tomorrow.
+
+
+
+# Lesson 137 A pleassant dream
+
+Are you doing the football pools,Brian?
+
+Yes,I've nearly finished,Julie.I'm sure we'll win something this week.
+
+You always say that,but we never win anything!What will you do if you win a lot of money?
+
+If I win a lot of money I'll buy you a mink coat.
+
+I don't want a mink coat!I want to see the world.
+
+All right.If we win a lot of money we'll travel round the world and we'll stay at the best hotels.Then we'll return home and buy a big house in the country.We'll have a beautiful garden and ...
+
+But if we spend all that money we'll be poor again.What'll we do then?
+
+If we spend all the money we'll try and win the football pools again.It's a pleasant dream but everything depends on 'if'!
+
+| football     | 足球     |
+| ------------ | -------- |
+| pool         | 赌注     |
+| win(won,won) | 赢       |
+| world        | 世界     |
+| poor         | 贫穷的   |
+| depend       | 依靠(on) |
+
+
+
+# Lesson 138 if ...
+
+What will he do if he misses the bus?He'll take a taxi.
+
+He can stay at the best hotels if he is rich.
+
+
+
+# Lesson 139  Is that you,John?
+
+Is that you,John?
+
+Yes,speaking.
+
+Tell Mary we'll be late for dinner this evening.
+
+I'm afraid I don't understand.
+
+Hasn't Mary told you?She invited Charlotte and me to dinner this evening.I said I would be at your house at six o'clock,but the boss wants me to do some extra work.I'll have to stay at the office.I don't konw  when I'll finish.Oh,and by the way,my wife wants to know if Mary needs any help.
+
+I don't know what you're talking about.
+
+That is John Smith,isn't it?
+
+Yes,I am John Smith.
+
+You are John Smith,the engineer,aren't you?
+
+That's right.
+
+You work for the Overseas Engineering Company,don't you?
+
+No,I don't.I'm John Smith the telephone engineer and I'm repairing your telephone line.
+
+
+
+| extra       | 额外的 |
+| ----------- | ------ |
+| overseas    | 海外的 |
+| engineering | 工程   |
+| company     | 公司   |
+| line        | 线路   |
+
+
+
+# Lesson 140 He wants to know if/why/what/when
+
+Are you tired?Why?
+
+I want to konw if you are tired.Tell me if you are tired.
+
+I want to konw why you are tired.Tell me why you are tired.
+
+Are you reading?What?
+
+I want to konw if you are reading.Tell me if you are reading.
+
+I want to konw what you are reading.Tell me what you are reading.
+
+Did Tom go to bed early?When?
+
+I want to konw if Tom went to bed early.Tell me if Tom went to bed early.
+
+I want to konw when Tom went to bed.Tell me when Tom went to bed.
+
+
+
+# Lesson 141 Sally's first train ride
+
+Last week,my fpur-year-old daughter,Sally,was invited to a  children's party.I decided to take her by train.Sally  was very excited because she had never tarvelled on a train before.She sat near the window and asked questions about everthing she saw.Suddenly,a middle-aged lady got on the train and sat opposite Sally.'Hello,little girl,'she said.Sally did not answer,but looked at her curiously.The lady was dressed in a blue coat and a large,funny hat.After the train had left the station,the lady opened her handbag and tool out her powerder compact.She then began to make up her face.'Why are you doing that?'Sally asked.'To make myself beautiful,'the lady answered.She put away her compact and smiled kindly.'But you are still ugly,'Sally said.Sally was amused,but I was very embarrassed!
+
+| excited     | 兴奋的         |
+| ----------- | -------------- |
+| get on      | 登上           |
+| middle-aged | 中年的         |
+| opposite    | 在。。。对面   |
+| curiously   | 好奇地         |
+| funny       | 可笑的         |
+| powder      | 香粉           |
+| compact     | 带镜的化妆盒   |
+| kindly      | 和谐的         |
+| ugly        | 丑陋的         |
+| amused      | 有趣的         |
+| smile       | 微笑           |
+| embarrassed | 尴尬的，窘迫的 |
+
+
+
+# Lesson 142 Someone invited Sally to a party
+
+| worried   | 担心的，担忧的 |
+| --------- | -------------- |
+| regularly | 经常地，定期地 |
+
+Does anyone ever open this window?Someone opens it regularly.It is opened regularly.
+
+Does anyone ever open these windows?Someone opens them regularly.They are opened regularly.
+
+Did anyone open this window?Some one opened it.It was opened this morning.
+
+Did anyone open these windows?Some one opened them.There were opened this morning.
+
+
+
+# Lesson 143 A walk through the woods
+
+I live in a very old town which is surrounded by beautiful woods.It is a famous beauty spot.On Sundays,hundreds of people come from the city to see our town and to walk through the woods.Visitors have been asked to keep the woods clean and tidy.Litter baskets have been placed under the trees,but people still throw their rubbish everywhere.Last Wednesday,I went for a walk in the woods.What I saw made me very sad.I counted seven old cars and three old refrigerators.The litter baskets were empty and the ground was covered with pieces of paper,cigarette ends,old tyres,empty bottles and rusty tins.Among the rubbish,I found a sign which said,'Anyone who leaves litter in these woods will be prosevuted!'
+
+| surround      | 包围         |
+| ------------- | ------------ |
+| wood          | 树林         |
+| beauty spot   | 风景点       |
+| hundred       | 百           |
+| city          | 城市         |
+| through       | 穿过         |
+| visitor       | 参观者       |
+| tidy          | 整齐的       |
+| litter        | 杂乱的东西   |
+| litter basket | 废物框       |
+| place         | 放           |
+| throw         | 扔           |
+| rubbish       | 垃圾         |
+| count         | 数，点       |
+| cover         | 覆盖         |
+| piece         | 碎片         |
+| tyre          | 轮胎         |
+| rusty         | 生锈的       |
+| among         | 在。。。之间 |
+| prosecute     | 依法处置     |
+
+
+
+# Lesson 144 He hasn't been served yet.
+
+Hasn't anyone opened the window yet?Someone has opened it.It has already been opened.
+
+Hasn't anyone opened the windows yet?Someone has opened them.They have already been opened.
 
 
 
